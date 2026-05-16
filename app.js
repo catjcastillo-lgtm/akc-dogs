@@ -20,13 +20,13 @@ const tempsOf = dog => {
   return dog.temperament.split(/[,\/]/).map(t => t.trim()).filter(Boolean);
 };
 
-let dogs = [], activeSize = "", activeTemps = new Set(), query = "";
+let dogs = [], activeSizes = new Set(), activeTemps = new Set(), query = "";
 
 const render = () => {
   const grid = document.getElementById("grid");
   const filtered = dogs.filter(d => {
     if (query && !d.name.toLowerCase().includes(query)) return false;
-    if (activeSize && sizeOf(d) !== activeSize) return false;
+    if (activeSizes.size > 0 && !activeSizes.has(sizeOf(d))) return false;
     if (activeTemps.size > 0) {
       const breedTemps = tempsOf(d).map(t => t.toLowerCase());
       if (![...activeTemps].every(at => breedTemps.some(t => t.includes(at.toLowerCase())))) return false;
@@ -119,10 +119,24 @@ document.getElementById("search").addEventListener("input", e => {
   render();
 });
 
+const sizeAllBtn = document.querySelector("[data-size='']");
 document.querySelectorAll("[data-size]").forEach(btn => {
   btn.addEventListener("click", () => {
-    activeSize = btn.dataset.size;
-    document.querySelectorAll("[data-size]").forEach(b => b.classList.toggle("active", b === btn));
+    const s = btn.dataset.size;
+    if (s === "") {
+      activeSizes.clear();
+      document.querySelectorAll("[data-size]").forEach(b => b.classList.remove("active"));
+      sizeAllBtn.classList.add("active");
+    } else {
+      if (activeSizes.has(s)) {
+        activeSizes.delete(s);
+        btn.classList.remove("active");
+      } else {
+        activeSizes.add(s);
+        btn.classList.add("active");
+      }
+      sizeAllBtn.classList.toggle("active", activeSizes.size === 0);
+    }
     render();
   });
 });
