@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AKC Dog Breeds</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header>
+  <h1>AKC Dog Breeds</h1>
+  <p>Browse, search, and filter recognized breeds</p>
+</header>
+
+<div class="controls">
+  <div class="search-wrap">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input type="search" id="search" placeholder="Search breeds…" />
+  </div>
+
+  <div class="filter-group">
+    <span class="filter-label">Size</span>
+    <button class="chip active" data-size="">All</button>
+    <button class="chip" data-size="small">Small</button>
+    <button class="chip" data-size="medium">Medium</button>
+    <button class="chip" data-size="large">Large</button>
+  </div>
+
+  <div class="filter-group" id="temp-filters">
+    <span class="filter-label">Temperament</span>
+    <button class="chip active" data-temp="">All</button>
+  </div>
+
+  <span class="count" id="count"></span>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<div class="overlay" id="overlay">
+  <div class="modal" id="modal">
+    <button class="modal-close" id="modal-close">✕</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
