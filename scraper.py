@@ -28,6 +28,8 @@ def get_breed_links():
 
 
 def _strip_html(s):
+    s = s.replace('\\"', '"').replace("\\/", "/")
+    s = html_module.unescape(s)
     s = re.sub(r"<[^>]+>", " ", s)
     return re.sub(r"\s+", " ", s).strip()
 
