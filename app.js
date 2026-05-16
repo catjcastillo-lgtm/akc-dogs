@@ -20,16 +20,19 @@ const tempsOf = dog => {
   return dog.temperament.split(/[,\/]/).map(t => t.trim()).filter(Boolean);
 };
 
-let dogs = [], activeSize = "", activeTemp = "", query = "";
+let dogs = [], activeSize = "", activeTemps = new Set(), query = "";
 
 const render = () => {
   const grid = document.getElementById("grid");
   const filtered = dogs.filter(d => {
     if (query && !d.name.toLowerCase().includes(query)) return false;
     if (activeSize && sizeOf(d) !== activeSize) return false;
-    if (activeTemp && !tempsOf(d).some(t => t.toLowerCase().includes(activeTemp.toLowerCase()))) return false;
+    if (activeTemps.size > 0) {
+      const breedTemps = tempsOf(d).map(t => t.toLowerCase());
+      if (![...activeTemps].every(at => breedTemps.some(t => t.includes(at.toLowerCase())))) return false;
+    }
     return true;
-  });
+  }).sort((a, b) => a.name.localeCompare(b.name));
 
   document.getElementById("count").textContent = `${filtered.length} breed${filtered.length !== 1 ? "s" : ""}`;
 
@@ -81,20 +84,32 @@ const buildTempFilters = () => {
   const present = new Set(dogs.flatMap(tempsOf).map(t => t.trim()));
   const toShow = TEMPERAMENT_TAGS.filter(t => [...present].some(p => p.toLowerCase().includes(t.toLowerCase())));
   const wrap = document.getElementById("temp-filters");
+  const allBtn = wrap.querySelector("[data-temp='']");
+
   toShow.forEach(t => {
     const btn = document.createElement("button");
     btn.className = "chip";
     btn.dataset.temp = t;
     btn.textContent = t;
     btn.addEventListener("click", () => {
-      const already = activeTemp === t;
-      activeTemp = already ? "" : t;
-      wrap.querySelectorAll("[data-temp]").forEach(b => {
-        b.classList.toggle("active", already ? b.dataset.temp === "" : b.dataset.temp === t);
-      });
+      if (activeTemps.has(t)) {
+        activeTemps.delete(t);
+        btn.classList.remove("active");
+      } else {
+        activeTemps.add(t);
+        btn.classList.add("active");
+      }
+      allBtn.classList.toggle("active", activeTemps.size === 0);
       render();
     });
     wrap.appendChild(btn);
+  });
+
+  allBtn.addEventListener("click", () => {
+    activeTemps.clear();
+    wrap.querySelectorAll("[data-temp]").forEach(b => b.classList.remove("active"));
+    allBtn.classList.add("active");
+    render();
   });
 };
 
@@ -111,6 +126,8 @@ document.querySelectorAll("[data-size]").forEach(btn => {
     render();
   });
 });
+
+// "All" temperament chip wired in buildTempFilters after data loads
 
 document.getElementById("overlay").addEventListener("click", e => {
   if (e.target === document.getElementById("overlay")) closeModal();
