@@ -7,7 +7,8 @@
     "weight": "40-70 pounds",
     "life_expectancy": "12-16 years",
     "group": "Foundation Stock Service",
-    "temperament": "Confident, Calm, Family-oriented"
+    "temperament": "Confident, Calm, Family-oriented",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Eurasier.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/hovawart/",
@@ -17,7 +18,8 @@
     "weight": "65-90 pounds",
     "life_expectancy": "10-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Intelligent, Faithful"
+    "temperament": "Alert, Intelligent, Faithful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Hovawart.10.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/slovensky-kopov/",
@@ -27,7 +29,8 @@
     "weight": "33-44 pounds",
     "life_expectancy": "12-13 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Courageous, Determined"
+    "temperament": "Alert, Courageous, Determined",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Slovensky-Kopov-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/tosa/",
@@ -37,7 +40,8 @@
     "weight": "100-200 pounds",
     "life_expectancy": "10-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Vigilant, Fearless, Patient"
+    "temperament": "Vigilant, Fearless, Patient",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Tosa-on-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/spanish-mastiff/",
@@ -47,7 +51,8 @@
     "weight": "140-200 pounds",
     "life_expectancy": "10-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Affectionate, Kind"
+    "temperament": "Intelligent, Affectionate, Kind",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Spanish-Mastiff.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/hokkaido/",
@@ -57,7 +62,8 @@
     "weight": "44-66 pounds",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Dignified, Alert, Devoted"
+    "temperament": "Dignified, Alert, Devoted",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Hokkaido.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/braque-du-bourbonnais/",
@@ -67,7 +73,8 @@
     "weight": "35-53 pounds",
     "life_expectancy": "10-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Affectionate, Gentle, Adaptable"
+    "temperament": "Affectionate, Gentle, Adaptable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bourbonnais.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/japanese-spitz/",
@@ -77,7 +84,8 @@
     "weight": "10-25 pounds",
     "life_expectancy": "10-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, playful, smart"
+    "temperament": "Loyal, playful, smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2019/06/Japanese-Spitz.4.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/segugio-italiano/",
@@ -87,7 +95,8 @@
     "weight": "39 - 62 lbs",
     "life_expectancy": "11-13 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Friendly, Eager to please"
+    "temperament": "Intelligent, Friendly, Eager to please",
+    "image_url": "https://www.akc.org/wp-content/uploads/2018/08/Segugio-Italiano-slideshow-08.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/norrbottenspets/",
@@ -97,7 +106,8 @@
     "weight": "20-30 pounds",
     "life_expectancy": "14-17 years",
     "group": "Miscellaneous Class",
-    "temperament": "Fearless, Agile, Attentive"
+    "temperament": "Fearless, Agile, Attentive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Norrbottenspets-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bavarian-mountain-scent-hound/",
@@ -107,7 +117,8 @@
     "weight": "37-66 pounds",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Reserved with strangers, Versatile"
+    "temperament": "Loyal, Reserved with strangers, Versatile",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bavarian.190758538.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/jagdterrier/",
@@ -117,7 +128,8 @@
     "weight": "17-22 pounds",
     "life_expectancy": "10-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Courageous, Hardworking"
+    "temperament": "Intelligent, Courageous, Hardworking",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Jagdterrier.4.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/portuguese-sheepdog/",
@@ -127,7 +139,8 @@
     "weight": "37.5-59 pounds",
     "life_expectancy": "12-13 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Devoted, Lively"
+    "temperament": "Intelligent, Devoted, Lively",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Black-Portuguese-Sheepdog-standing-outdoors-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/hamiltonstovare/",
@@ -137,7 +150,8 @@
     "weight": "40-75 pounds",
     "life_expectancy": "14-17 years",
     "group": "Foundation Stock Service",
-    "temperament": "Versatile, Agile, Regal"
+    "temperament": "Versatile, Agile, Regal",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Hamiltonstovare-on-White-011.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/german-longhaired-pointer/",
@@ -147,7 +161,8 @@
     "weight": "55-80 pounds",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Versatile, Calm, Family-oriented"
+    "temperament": "Versatile, Calm, Family-oriented",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/German-Longhaired-Pointer-on-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/tornjak/",
@@ -157,7 +172,8 @@
     "weight": "62-110 pounds",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Friendly, Courageous"
+    "temperament": "Intelligent, Friendly, Courageous",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Tornjak-standing-in-the-woods.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/working-kelpie/",
@@ -167,7 +183,8 @@
     "weight": "28-60 pounds",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Intelligent, Eager"
+    "temperament": "Alert, Intelligent, Eager",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Working-Kelpie.2.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/australian-kelpie/",
@@ -177,7 +194,8 @@
     "weight": "35-50 lbs",
     "life_expectancy": "10-13 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Loyal, Intelligent"
+    "temperament": "Alert, Loyal, Intelligent",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Kelpie-herding-sheep.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/portuguese-podengo/",
@@ -187,7 +205,8 @@
     "weight": "44-66 pounds (large) 35-44 pounds (medium)",
     "life_expectancy": "10-15 years",
     "group": "Miscellaneous Class",
-    "temperament": "Alert, Independent, Intelligent"
+    "temperament": "Alert, Independent, Intelligent",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Portuguese-Podengo-standing-in-three-quarter-view.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/karelian-bear-dog/",
@@ -197,7 +216,8 @@
     "weight": "44-49 pounds",
     "life_expectancy": "11-13 years",
     "group": "Foundation Stock Service",
-    "temperament": "Independent, Loyal, Courageous"
+    "temperament": "Independent, Loyal, Courageous",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Karelian-Bear-Dog.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/deutscher-wachtelhund/",
@@ -207,7 +227,8 @@
     "weight": "40-55 pounds",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Friendly, Versatile, Determined"
+    "temperament": "Friendly, Versatile, Determined",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/AdobeStock_1083293871.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/estrela-mountain-dog/",
@@ -217,7 +238,8 @@
     "weight": "77-132 pounds",
     "life_expectancy": "10-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Intelligent, Brave"
+    "temperament": "Alert, Intelligent, Brave",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Beau.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/stabyhoun/",
@@ -227,7 +249,8 @@
     "weight": "40-60 pounds",
     "life_expectancy": "13-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Loving, Responsive"
+    "temperament": "Intelligent, Loving, Responsive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/AdobeStock_62619970.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/slovensky-cuvac/",
@@ -237,7 +260,8 @@
     "weight": "68-97 pounds",
     "life_expectancy": "11-13 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Courageous, Faithful"
+    "temperament": "Alert, Courageous, Faithful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Slovensky-Cuvac-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/finnish-lapphund/",
@@ -247,7 +271,8 @@
     "weight": "33-53 pounds",
     "life_expectancy": "12-15 years",
     "group": "Herding",
-    "temperament": "Alert, Friendly, Agile"
+    "temperament": "Alert, Friendly, Agile",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Finnish-Lapphund-lying-on-a-snow-covered-road.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/miniature-american-shepherd/",
@@ -257,7 +282,8 @@
     "weight": "20-40 pounds",
     "life_expectancy": "12-13 years",
     "group": "Herding",
-    "temperament": "Intelligent, Good-natured, Devoted"
+    "temperament": "Intelligent, Good-natured, Devoted",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Miniature-American-Shepherd-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/standard-schnauzer/",
@@ -267,7 +293,8 @@
     "weight": "35-50 pounds (male), 30-45 pounds (female)",
     "life_expectancy": "13-16 years",
     "group": "Working",
-    "temperament": "Fearless, Smart, Spirited"
+    "temperament": "Fearless, Smart, Spirited",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Standard-Schnauzer-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/lakeland-terrier/",
@@ -277,7 +304,8 @@
     "weight": "17 pounds (male), slightly sm",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Friendly, Confident, Bold"
+    "temperament": "Friendly, Confident, Bold",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Lakeland-Terrier-standing-stacked-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/miniature-schnauzer/",
@@ -287,7 +315,8 @@
     "weight": "11-20 pounds",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Friendly, Smart, Obedient"
+    "temperament": "Friendly, Smart, Obedient",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Miniature-Schnauzer-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/slovakian-wirehaired-pointer/",
@@ -296,7 +325,8 @@
     "weight": "50-65 lbs",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": ""
+    "temperament": "",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/07/21154900/Slovakian-Wirehaired-Pointer-laying-down-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/mountain-cur/",
@@ -305,7 +335,8 @@
     "weight": "30-60 pounds",
     "life_expectancy": "10-13 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Reserved with strangers, Strong-willed"
+    "temperament": "Intelligent, Reserved with strangers, Strong-willed",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12191148/Mountain-Cur-MP.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/treeing-tennessee-brindle/",
@@ -315,7 +346,8 @@
     "weight": "30-50 pounds",
     "life_expectancy": "10-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Intelligent, Friendly"
+    "temperament": "Alert, Intelligent, Friendly",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Treeing-Tennessee-Brindle-on-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bichon-frise/",
@@ -325,7 +357,8 @@
     "weight": "12-18 pounds",
     "life_expectancy": "14-15 years",
     "group": "Non Sporting",
-    "temperament": "Curious, Playful, Peppy"
+    "temperament": "Curious, Playful, Peppy",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bichon-Frise-On-White-03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/black-russian-terrier/",
@@ -335,7 +368,8 @@
     "weight": "80-130 pounds",
     "life_expectancy": "10-12 years",
     "group": "Working",
-    "temperament": "Intelligent, Calm, Powerful"
+    "temperament": "Intelligent, Calm, Powerful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Black-Russian-Terrier-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/boerboel/",
@@ -345,7 +379,8 @@
     "weight": "150-200 pounds",
     "life_expectancy": "9-11 years",
     "group": "Working",
-    "temperament": "Intelligent, Confident, Calm"
+    "temperament": "Intelligent, Confident, Calm",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Boerboel-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/chesapeake-bay-retriever/",
@@ -355,7 +390,8 @@
     "weight": "65-80 pounds (male), 55-70 pounds (female)",
     "life_expectancy": "10-13 years",
     "group": "Sporting",
-    "temperament": "Bright, Affectionate, Sensitive"
+    "temperament": "Bright, Affectionate, Sensitive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Chesapeake-Bay-Retriever-hunting.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/chinese-shar-pei/",
@@ -365,7 +401,8 @@
     "weight": "45-60 pounds",
     "life_expectancy": "8-12 years",
     "group": "Non Sporting",
-    "temperament": "Independent, Loyal, Calm"
+    "temperament": "Independent, Loyal, Calm",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Chinese-Shar-Pei-standing-on-the-sidewalk.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/grand-basset-griffon-vendeen/",
@@ -375,7 +412,8 @@
     "weight": "40-45 pounds",
     "life_expectancy": "13-15 years",
     "group": "Hound",
-    "temperament": "Independent, Outgoing, Happy"
+    "temperament": "Independent, Outgoing, Happy",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/GBGV.2.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/lhasa-apso/",
@@ -385,7 +423,8 @@
     "weight": "12-18 pounds",
     "life_expectancy": "12-15 years",
     "group": "Non Sporting",
-    "temperament": "Confident, Smart, Comical"
+    "temperament": "Confident, Smart, Comical",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Lhasa-Apso-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/maltese/",
@@ -395,7 +434,8 @@
     "weight": "under 7 pounds",
     "life_expectancy": "12-15 years",
     "group": "Toy",
-    "temperament": "Playful, Charming, Gentle"
+    "temperament": "Playful, Charming, Gentle",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Maltese-laying-down-in-a-chair.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/miniature-bull-terrier/",
@@ -405,7 +445,8 @@
     "weight": "18-28 pounds",
     "life_expectancy": "11-13 years",
     "group": "Terrier",
-    "temperament": "Upbeat, Mischievous, Comical"
+    "temperament": "Upbeat, Mischievous, Comical",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Miniature-Bull-Terrier-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/norfolk-terrier/",
@@ -415,7 +456,8 @@
     "weight": "11-12 pounds",
     "life_expectancy": "12-16 years",
     "group": "Terrier",
-    "temperament": "Alert, Fearless, Fun-loving"
+    "temperament": "Alert, Fearless, Fun-loving",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Norfolk-Terrier-sitting-in-the-grass.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/otterhound/",
@@ -425,7 +467,8 @@
     "weight": "115 pounds (male), 80 pounds (female)",
     "life_expectancy": "10-13 years",
     "group": "Hound",
-    "temperament": "Even-tempered, Amiable, Boisterous"
+    "temperament": "Even-tempered, Amiable, Boisterous",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Otterhound-On-White-03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pointer/",
@@ -435,7 +478,8 @@
     "weight": "55-75 pounds (male), 45-65 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Sporting",
-    "temperament": "Loyal, Hardworking, Even-tempered"
+    "temperament": "Loyal, Hardworking, Even-tempered",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pointer.4.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/kuvasz/",
@@ -445,7 +489,8 @@
     "weight": "100-115 pounds (male), 70-90 pounds (female)",
     "life_expectancy": "10-12 years",
     "group": "Working",
-    "temperament": "Loyal, Fearless, Sweet"
+    "temperament": "Loyal, Fearless, Sweet",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/25112132/Kuvasz-walking-in-a-pasture.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/portuguese-pointer/",
@@ -455,7 +500,8 @@
     "weight": "35-59 pounds",
     "life_expectancy": "14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Energetic, Affectionate, Smart"
+    "temperament": "Energetic, Affectionate, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Portuguese-Pointer-on-White-01-1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/skye-terrier/",
@@ -465,7 +511,8 @@
     "weight": "35-45 pounds (male), slightly li",
     "life_expectancy": "12-14 years",
     "group": "Terrier",
-    "temperament": "Courageous, Good-tempered, Canny"
+    "temperament": "Courageous, Good-tempered, Canny",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Skye-Terrier-standing-outdoors-in-profile.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/miniature-pinscher/",
@@ -475,7 +522,8 @@
     "weight": "8-10 pounds",
     "life_expectancy": "12-16 years",
     "group": "Toy",
-    "temperament": "Fearless, Proud, Fun-loving"
+    "temperament": "Fearless, Proud, Fun-loving",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Miniature-Pinscher-standing-in-three-quarter-view.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/peruvian-inca-orchid/",
@@ -485,7 +533,8 @@
     "weight": "8.5-17.5 pounds (small) 17.5-26.5 pounds (medium) 26.5-55 pounds (large)",
     "life_expectancy": "12-14 years",
     "group": "Miscellaneous Class",
-    "temperament": "Loyal, Affectionate, Noble"
+    "temperament": "Loyal, Affectionate, Noble",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Peruvian-Inca-Orchid-04.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/nederlandse-kooikerhondje/",
@@ -494,7 +543,8 @@
     "weight": "20 - 30 lbs",
     "life_expectancy": "12-15 years",
     "group": "Sporting",
-    "temperament": "Alert, Friendly, Quick"
+    "temperament": "Alert, Friendly, Quick",
+    "image_url": "https://www.akc.org/wp-content/uploads/2018/01/Nederlandse-Kooikerhondje-Field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pudelpointer/",
@@ -504,7 +554,8 @@
     "weight": "45-70 pounds",
     "life_expectancy": "14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Friendly, Smart, Willing to please"
+    "temperament": "Friendly, Smart, Willing to please",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pudelpointer-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/clumber-spaniel/",
@@ -514,7 +565,8 @@
     "weight": "70-85 pounds (male), 55-70 pounds (female)",
     "life_expectancy": "10-12 years",
     "group": "Sporting",
-    "temperament": "Mellow, Amusing, Gentlemanly"
+    "temperament": "Mellow, Amusing, Gentlemanly",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Clumber-Spaniel-On-White-011.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pumi/",
@@ -524,7 +576,8 @@
     "weight": "27-29 pounds (male), 22-24 pounds (female)",
     "life_expectancy": "12-13 years",
     "group": "Herding",
-    "temperament": "Energetic, Lively, Ready to work"
+    "temperament": "Energetic, Lively, Ready to work",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pumi-standing-outdoors-in-the-countryside.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bearded-collie/",
@@ -534,7 +587,8 @@
     "weight": "45-55 pounds",
     "life_expectancy": "12-14 years",
     "group": "Herding",
-    "temperament": "Smart, Bouncy, Charismatic"
+    "temperament": "Smart, Bouncy, Charismatic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bearded-Collie-standing-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/irish-wolfhound/",
@@ -544,7 +598,8 @@
     "weight": "120 pounds (male), 105 pounds (female)",
     "life_expectancy": "6-8 years",
     "group": "Hound",
-    "temperament": "Dignified, Courageous, Calm"
+    "temperament": "Dignified, Courageous, Calm",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Wolfhound-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/english-foxhound/",
@@ -554,7 +609,8 @@
     "weight": "60-75 pounds",
     "life_expectancy": "10-13 years",
     "group": "Hound",
-    "temperament": "Sociable, Affectionate, Gentle"
+    "temperament": "Sociable, Affectionate, Gentle",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/English-Foxhound-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/portuguese-podengo-pequeno/",
@@ -564,7 +620,8 @@
     "weight": "9-13 pounds",
     "life_expectancy": "12-15 years",
     "group": "Hound",
-    "temperament": "Playful, Charming, Lively"
+    "temperament": "Playful, Charming, Lively",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/PPP-on-white.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/keeshond/",
@@ -574,7 +631,8 @@
     "weight": "35-45 pounds",
     "life_expectancy": "12-15 years",
     "group": "Non Sporting",
-    "temperament": "Friendly, Lively, Outgoing"
+    "temperament": "Friendly, Lively, Outgoing",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Keeshond-exploring-in-the-backyard.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/chow-chow/",
@@ -584,7 +642,8 @@
     "weight": "45-70 pounds",
     "life_expectancy": "8-12 years",
     "group": "Non Sporting",
-    "temperament": "Dignified, Bright, Serious-minded"
+    "temperament": "Dignified, Bright, Serious-minded",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Chow-Chow-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/tibetan-spaniel/",
@@ -594,7 +653,8 @@
     "weight": "9-15 pounds",
     "life_expectancy": "12-15 years",
     "group": "Non Sporting",
-    "temperament": "Playful, Bright, Self-confident"
+    "temperament": "Playful, Bright, Self-confident",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Spaniel-laying-down-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/weimaraner/",
@@ -604,7 +664,8 @@
     "weight": "70-90 pounds (male), 55-75 pounds (female)",
     "life_expectancy": "10-13 years",
     "group": "Sporting",
-    "temperament": "Friendly, Fearless, Obedient"
+    "temperament": "Friendly, Fearless, Obedient",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Weimaraner-running-into-water.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/irish-water-spaniel/",
@@ -614,7 +675,8 @@
     "weight": "55-68 pounds (male), 45-58 pounds (female)",
     "life_expectancy": "12-13 years",
     "group": "Sporting",
-    "temperament": "Playful, Hardworking, Brave"
+    "temperament": "Playful, Hardworking, Brave",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Water-Spaniel-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/sussex-spaniel/",
@@ -624,7 +686,8 @@
     "weight": "35-45 pounds",
     "life_expectancy": "13-15 years",
     "group": "Sporting",
-    "temperament": "Affectionate, Loyal"
+    "temperament": "Affectionate, Loyal",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Sussex-Spaniel-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/west-highland-white-terrier/",
@@ -634,7 +697,8 @@
     "weight": "15-20 pounds",
     "life_expectancy": "13-15 years",
     "group": "Terrier",
-    "temperament": "Loyal, Happy, Entertaining"
+    "temperament": "Loyal, Happy, Entertaining",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/West-Highland-White-Terrier-laying-down-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/smooth-fox-terrier/",
@@ -644,7 +708,8 @@
     "weight": "18 pounds (male), 15-17 (fema",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Independent, Friendly, Amusing"
+    "temperament": "Independent, Friendly, Amusing",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Smooth-Fox-Terrier-standing-in-a-field-in-winter.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/welsh-terrier/",
@@ -654,7 +719,8 @@
     "weight": "20 pounds (male), proportiona",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Intelligent, Friendly, Spirited"
+    "temperament": "Intelligent, Friendly, Spirited",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Welsh-Terrier-standing-stacked-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/dandie-dinmont-terrier/",
@@ -664,7 +730,8 @@
     "weight": "18-24 pounds",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Independent, Proud, Smart"
+    "temperament": "Independent, Proud, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Dandie-Dinmont-Terrier-slide-6.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/irish-terrier/",
@@ -674,7 +741,8 @@
     "weight": "27 pounds (male), 25 pounds (female)",
     "life_expectancy": "13-15 years",
     "group": "Terrier",
-    "temperament": "Bold, Dashing, Tenderhearted"
+    "temperament": "Bold, Dashing, Tenderhearted",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Terriers-sitting-together.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/papillon/",
@@ -684,7 +752,8 @@
     "weight": "5-10 pounds",
     "life_expectancy": "14-16 years",
     "group": "Toy",
-    "temperament": "Alert, Friendly, Happy"
+    "temperament": "Alert, Friendly, Happy",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Papillon-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bullmastiff/",
@@ -694,7 +763,8 @@
     "weight": "110-130 pounds (male), 100-120 pounds (female)",
     "life_expectancy": "7-9 years",
     "group": "Working",
-    "temperament": "Loyal, Affectionate, Brave"
+    "temperament": "Loyal, Affectionate, Brave",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/22123345/Bullmastiff-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/swedish-vallhund/",
@@ -704,7 +774,8 @@
     "weight": "20-35 pounds",
     "life_expectancy": "12-15 years",
     "group": "Herding",
-    "temperament": "Friendly, Energetic, Watchful"
+    "temperament": "Friendly, Energetic, Watchful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Vallhund-running-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/spinone-italiano/",
@@ -713,7 +784,8 @@
     "height": "23-27 inches (male), 22-25 inches (female)",
     "life_expectancy": "10-12 years",
     "group": "Sporting",
-    "temperament": "Sociable, Patient, Docile"
+    "temperament": "Sociable, Patient, Docile",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Spinone-Italiano-On-White-03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pyrenean-shepherd/",
@@ -723,7 +795,8 @@
     "weight": "15-30 pounds",
     "life_expectancy": "17-19 years",
     "group": "Herding",
-    "temperament": "Active, Affectionate, Enthusiastic"
+    "temperament": "Active, Affectionate, Enthusiastic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pyrenean-Shepherd-standing-in-profile-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/cardigan-welsh-corgi/",
@@ -733,7 +806,8 @@
     "weight": "30-38 pounds (male), 25-34 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Herding",
-    "temperament": "Loyal, Affectionate, Smart"
+    "temperament": "Loyal, Affectionate, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Cardigan-Welsh-Corgi-on-White-111.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/norwegian-buhund/",
@@ -743,7 +817,8 @@
     "weight": "31-40 pounds (male), 26-35 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Herding",
-    "temperament": "Confident, Smart, Perceptive"
+    "temperament": "Confident, Smart, Perceptive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Norwegian-Buhund-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bull-terrier/",
@@ -753,7 +828,8 @@
     "weight": "50-70 pounds",
     "life_expectancy": "12-13 years",
     "group": "Terrier",
-    "temperament": "Playful, Charming, Mischievous"
+    "temperament": "Playful, Charming, Mischievous",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/bull-terrier-on-white-10.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/russell-terrier/",
@@ -763,7 +839,8 @@
     "weight": "9-15 pounds",
     "life_expectancy": "12-14 years",
     "group": "Terrier",
-    "temperament": "Alert, Inquisitive, Lively"
+    "temperament": "Alert, Inquisitive, Lively",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Russell-Terrier-On-White-03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/silky-terrier/",
@@ -773,7 +850,8 @@
     "weight": "around 10 pounds",
     "life_expectancy": "13-15 years",
     "group": "Toy",
-    "temperament": "Friendly, Quick, Keenly alert"
+    "temperament": "Friendly, Quick, Keenly alert",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Silky-Terrier-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/japanese-chin/",
@@ -783,7 +861,8 @@
     "weight": "7-11 pounds",
     "life_expectancy": "10-12 years",
     "group": "Toy",
-    "temperament": "Charming, Loving, Noble"
+    "temperament": "Charming, Loving, Noble",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Japanese-Chin-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/vizsla/",
@@ -793,7 +872,8 @@
     "weight": "55-60 pounds (male), 44-55 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Sporting",
-    "temperament": "Energetic, Affectionate, Gentle"
+    "temperament": "Energetic, Affectionate, Gentle",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Vizsla-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/giant-schnauzer/",
@@ -803,7 +883,8 @@
     "weight": "75-95 pounds (male), 55-80 pounds (female)",
     "life_expectancy": "10-13 years",
     "group": "Working",
-    "temperament": "Alert, Loyal, Trainable"
+    "temperament": "Alert, Loyal, Trainable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Giant-Schanuzer-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bouvier-des-flandres/",
@@ -813,7 +894,8 @@
     "weight": "70-110 pounds",
     "life_expectancy": "10-12 years",
     "group": "Herding",
-    "temperament": "Strong-willed, Courageous, Affectionate"
+    "temperament": "Strong-willed, Courageous, Affectionate",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bouvier-des-Flandres-standing-atop-a-hill.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pomeranian/",
@@ -823,7 +905,8 @@
     "weight": "3-7 pounds",
     "life_expectancy": "12-16 years",
     "group": "Toy",
-    "temperament": "Inquisitive, Lively, Bold"
+    "temperament": "Inquisitive, Lively, Bold",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/wirehaired-pointing-griffon/",
@@ -833,7 +916,8 @@
     "weight": "50-70 pounds (male), 35-50 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Sporting",
-    "temperament": "Friendly, Devoted, Trainable"
+    "temperament": "Friendly, Devoted, Trainable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Wirehaired-Pointing-Griffon-laying-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/gordon-setter/",
@@ -843,7 +927,8 @@
     "weight": "55-80 pounds (male), 45-70 pounds (female)",
     "life_expectancy": "12-13 years",
     "group": "Sporting",
-    "temperament": "Confident, Affectionate, Bold"
+    "temperament": "Confident, Affectionate, Bold",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Gordon-Setter.3.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/finnish-spitz/",
@@ -853,7 +938,8 @@
     "weight": "25-33 pounds (male), 20-28 pounds (female)",
     "life_expectancy": "13-15 years",
     "group": "Non Sporting",
-    "temperament": "Good-natured, Friendly, Lively"
+    "temperament": "Good-natured, Friendly, Lively",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Finnish-Spitz-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/lowchen/",
@@ -863,7 +949,8 @@
     "weight": "15 pounds",
     "life_expectancy": "13-15 years",
     "group": "Non Sporting",
-    "temperament": "Affectionate, Outgoing, Positive"
+    "temperament": "Affectionate, Outgoing, Positive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Lowchen-at-the-AKC-National-Championship-presented-by-Royal-Canin.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/rhodesian-ridgeback/",
@@ -873,7 +960,8 @@
     "weight": "85 pounds (male), 70 pounds (female)",
     "life_expectancy": "10-12 years",
     "group": "Hound",
-    "temperament": "Dignified, Affectionate, Even-tempered"
+    "temperament": "Dignified, Affectionate, Even-tempered",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Rhodesian-Ridgeback-standing-in-profile-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/wire-fox-terrier/",
@@ -883,7 +971,8 @@
     "weight": "18 pounds (male), 15-17 (fema",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Alert, Confident, Gregarious"
+    "temperament": "Alert, Confident, Gregarious",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/02163205/Wire-Fox-Terrier.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/dalmatian/",
@@ -893,7 +982,8 @@
     "weight": "45-70 pounds",
     "life_expectancy": "11-13 years",
     "group": "Non Sporting",
-    "temperament": "Dignified, Outgoing, Smart"
+    "temperament": "Dignified, Outgoing, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Dalmatian-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/dachshund/",
@@ -903,7 +993,8 @@
     "weight": "16-32 pounds (standard), 11 pounds & under (miniature)",
     "life_expectancy": "12-16 years",
     "group": "Hound",
-    "temperament": "Curious, Friendly, Spunky"
+    "temperament": "Curious, Friendly, Spunky",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Longhaired-Dachshund-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/yakutian-laika/",
@@ -913,7 +1004,8 @@
     "weight": "40-55 pounds",
     "life_expectancy": "10-12 years",
     "group": "Miscellaneous Class",
-    "temperament": "Intelligent, Active, Affectionate"
+    "temperament": "Intelligent, Active, Affectionate",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Yakutian-Laika1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/boykin-spaniel/",
@@ -923,7 +1015,8 @@
     "weight": "30-40 pounds (male), 25-35 pounds (female)",
     "life_expectancy": "10-15 years",
     "group": "Sporting",
-    "temperament": "Friendly, Eager, Lovable"
+    "temperament": "Friendly, Eager, Lovable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Boykin-Spaniel-holding-a-dummy-toy.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/brittany/",
@@ -933,7 +1026,8 @@
     "weight": "30-40 pounds",
     "life_expectancy": "12-14 years",
     "group": "Sporting",
-    "temperament": "Bright, Fun-loving, Upbeat"
+    "temperament": "Bright, Fun-loving, Upbeat",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Brittany-1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/porcelaine/",
@@ -943,7 +1037,8 @@
     "weight": "55-62 pounds",
     "life_expectancy": "12-13 years",
     "group": "Foundation Stock Service",
-    "temperament": "Independent, Energetic, Powerful"
+    "temperament": "Independent, Energetic, Powerful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Porcelaine.4.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/english-setter/",
@@ -953,7 +1048,8 @@
     "weight": "65-80 pounds (male), 45-55 pounds (female)",
     "life_expectancy": "12 years",
     "group": "Sporting",
-    "temperament": "Friendly, Mellow, Merry"
+    "temperament": "Friendly, Mellow, Merry",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/English-Setter-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/english-springer-spaniel/",
@@ -963,7 +1059,8 @@
     "weight": "50 pounds (male), 40 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Sporting",
-    "temperament": "Friendly, Playful, Obedient"
+    "temperament": "Friendly, Playful, Obedient",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/English-Springer-Spaniel-On-White-011.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/english-toy-spaniel/",
@@ -973,7 +1070,8 @@
     "weight": "8-14 pounds",
     "life_expectancy": "10-12 years",
     "group": "Toy",
-    "temperament": "Intelligent, Playful, Gentle"
+    "temperament": "Intelligent, Playful, Gentle",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/English-Toy-Spaniel-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/glen-of-imaal-terrier/",
@@ -983,7 +1081,8 @@
     "weight": "32-40 pounds",
     "life_expectancy": "10-15 years",
     "group": "Terrier",
-    "temperament": "Spirited, Gentle, Bold"
+    "temperament": "Spirited, Gentle, Bold",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Glen-of-Imaal-Terrier-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/beauceron/",
@@ -993,7 +1092,8 @@
     "weight": "70-110 pounds",
     "life_expectancy": "10-12 years",
     "group": "Herding",
-    "temperament": "Faithful, Gentle, Obedient"
+    "temperament": "Faithful, Gentle, Obedient",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Beauceron-On-White-03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/komondor/",
@@ -1003,7 +1103,8 @@
     "weight": "100 pounds or more (male), 80 pounds or more (female)",
     "life_expectancy": "10-12 years",
     "group": "Working",
-    "temperament": "Dignified, Loyal, Brave"
+    "temperament": "Dignified, Loyal, Brave",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Komondor-standing-in-the-park.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/leonberger/",
@@ -1013,7 +1114,8 @@
     "weight": "110-170 pounds (male), 90-140 pounds (female)",
     "life_expectancy": "7 years",
     "group": "Working",
-    "temperament": "Friendly, Playful, Gentle"
+    "temperament": "Friendly, Playful, Gentle",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Leonberger-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/croatian-sheepdog/",
@@ -1023,7 +1125,8 @@
     "weight": "29-44 pounds",
     "life_expectancy": "13-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Active, Alert and intelligent"
+    "temperament": "Loyal, Active, Alert and intelligent",
+    "image_url": "https://www.akc.org/wp-content/uploads/2018/05/Croatian-Sheepdog.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/parson-russell-terrier/",
@@ -1033,7 +1136,8 @@
     "weight": "13-17 pounds",
     "life_expectancy": "13-15 years",
     "group": "Terrier",
-    "temperament": "Friendly, Clever, Athletic"
+    "temperament": "Friendly, Clever, Athletic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Parson-Russell-Terrier-standing-in-three-quarter-view-on-a-white-background.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/samoyed/",
@@ -1043,7 +1147,8 @@
     "weight": "45-65 pounds (male), 35-50 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Working",
-    "temperament": "Friendly, Gentle, Adaptable"
+    "temperament": "Friendly, Gentle, Adaptable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Samoyed-standing-in-the-forest.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/irish-setter/",
@@ -1053,7 +1158,8 @@
     "weight": "70 pounds (male), 60 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Sporting",
-    "temperament": "Active, Sweet-natured, Outgoing"
+    "temperament": "Active, Sweet-natured, Outgoing",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Setter-on-point-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/neapolitan-mastiff/",
@@ -1063,7 +1169,8 @@
     "weight": "150 pounds (male), 110 pounds (female)",
     "life_expectancy": "7-9 years",
     "group": "Working",
-    "temperament": "Dignified, Loyal, Watchful"
+    "temperament": "Dignified, Loyal, Watchful",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2009/01/26133242/Neapolitan-Mastiff-on-lead-standing-in-the-grass-outdoors.20190813025752970.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/thai-ridgeback/",
@@ -1073,7 +1180,8 @@
     "weight": "35-75 pounds",
     "life_expectancy": "14-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Alert, Intelligent"
+    "temperament": "Loyal, Alert, Intelligent",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Thai-Ridgeback.4.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/welsh-springer-spaniel/",
@@ -1083,7 +1191,8 @@
     "weight": "40-55 pounds (male), 35-50 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Sporting",
-    "temperament": "Reserved, Happy, Upbeat"
+    "temperament": "Reserved, Happy, Upbeat",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Welsh-Springer-Spaniel-head-portrait-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/central-asian-shepherd-dog/",
@@ -1093,7 +1202,8 @@
     "weight": "Minimum: 88-110 pounds",
     "life_expectancy": "years",
     "group": "Foundation Stock Service",
-    "temperament": "Independent, Courageous, Self-confident"
+    "temperament": "Independent, Courageous, Self-confident",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Central-Asian-Shepherd-Dog-on-White-02.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/hanoverian-scenthound/",
@@ -1103,7 +1213,8 @@
     "weight": "79-99 pounds",
     "life_expectancy": "10-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Independent, Loyal, Calm"
+    "temperament": "Independent, Loyal, Calm",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Hanoverian-Scenthound.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/rottweiler/",
@@ -1113,7 +1224,8 @@
     "weight": "95-135 pounds (male), 80-100 pounds (female)",
     "life_expectancy": "9-10 years",
     "group": "Working",
-    "temperament": "Loyal, Loving, Confident guardian"
+    "temperament": "Loyal, Loving, Confident guardian",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Rottweiler-On-White-10.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/lagotto-romagnolo/",
@@ -1123,7 +1235,8 @@
     "weight": "28.5-35 pounds (male), 24-31 pounds (female)",
     "life_expectancy": "15-17 years",
     "group": "Sporting",
-    "temperament": "Affectionate, Keen, Undemanding"
+    "temperament": "Affectionate, Keen, Undemanding",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Lagotto-Romagnolo-standing-by-a-pond.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/berger-picard/",
@@ -1133,7 +1246,8 @@
     "weight": "50-70 pounds",
     "life_expectancy": "12-13 years",
     "group": "Herding",
-    "temperament": "Loyal, Good-natured, Observant"
+    "temperament": "Loyal, Good-natured, Observant",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Berger-Picard-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pug/",
@@ -1143,7 +1257,8 @@
     "weight": "14-18 pounds",
     "life_expectancy": "13-15 years",
     "group": "Toy",
-    "temperament": "Charming, Loving, Mischievous"
+    "temperament": "Charming, Loving, Mischievous",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pug-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/irish-red-and-white-setter/",
@@ -1153,7 +1268,8 @@
     "weight": "42-60 pounds (male), 35-50 pounds (female)",
     "life_expectancy": "11-15 years",
     "group": "Sporting",
-    "temperament": "Courageous, Spirited, Determined"
+    "temperament": "Courageous, Spirited, Determined",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Irish-Red-and-White-Setter-stalking-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/harrier/",
@@ -1163,7 +1279,8 @@
     "weight": "45-60 pounds",
     "life_expectancy": "12-15 years",
     "group": "Hound",
-    "temperament": "Friendly, Outgoing, People-oriented"
+    "temperament": "Friendly, Outgoing, People-oriented",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Harrier3.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/kromfohrlander/",
@@ -1173,7 +1290,8 @@
     "weight": "20-35 pounds",
     "life_expectancy": "13-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Active, Sensitive"
+    "temperament": "Intelligent, Active, Sensitive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Kromfohrlander.6.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/caucasian-shepherd-dog/",
@@ -1183,7 +1301,8 @@
     "weight": "99-170 pounds",
     "life_expectancy": "10-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Fearless, Bold, Kind"
+    "temperament": "Fearless, Bold, Kind",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/GettyImages-1095398138.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/xoloitzcuintli/",
@@ -1193,7 +1312,8 @@
     "weight": "10-15 pounds (toy), 15-30 pounds (miniature), 30-55 pounds (standard)",
     "life_expectancy": "13-18 years",
     "group": "Non Sporting",
-    "temperament": "Alert, Loyal, Calm"
+    "temperament": "Alert, Loyal, Calm",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Xoloitzcuintli-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bluetick-coonhound/",
@@ -1203,7 +1323,8 @@
     "weight": "55-80 pounds (male), 45-65 pounds (female)",
     "life_expectancy": "11-12 years",
     "group": "Hound",
-    "temperament": "Devoted, Smart, Tenacious"
+    "temperament": "Devoted, Smart, Tenacious",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bluetick-Coonhound.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/curly-coated-retriever/",
@@ -1213,7 +1334,8 @@
     "weight": "60-95 pounds",
     "life_expectancy": "10-12 years",
     "group": "Sporting",
-    "temperament": "Confident, Proud, Wickedly smart"
+    "temperament": "Confident, Proud, Wickedly smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Curly-Coated-Retriever-standing-stacked-in-a-field-at-sunset.20200418030641387.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/wirehaired-vizsla/",
@@ -1223,7 +1345,8 @@
     "weight": "55-65 pounds (male), 45-55 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Sporting",
-    "temperament": "Loyal, Gentle, Trainable"
+    "temperament": "Loyal, Gentle, Trainable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Wirehaired-Vizsla-wading-into-a-lake.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/whippet/",
@@ -1233,7 +1356,8 @@
     "weight": "25-40 pounds",
     "life_expectancy": "12-15 years",
     "group": "Hound",
-    "temperament": "Playful, Affectionate, Calm"
+    "temperament": "Playful, Affectionate, Calm",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Whippet-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/wetterhoun/",
@@ -1243,7 +1367,8 @@
     "weight": "50-75 pounds",
     "life_expectancy": "13 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Intelligent, Good-natured"
+    "temperament": "Loyal, Intelligent, Good-natured",
+    "image_url": "https://www.akc.org/wp-content/uploads/2020/01/Wetterhoun-black.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/poodle-toy/",
@@ -1253,7 +1378,8 @@
     "weight": "4-6 pounds",
     "life_expectancy": "10-18 years",
     "group": "Toy",
-    "temperament": "Intelligent, Agile, Self-confident"
+    "temperament": "Intelligent, Agile, Self-confident",
+    "image_url": "https://www.akc.org/wp-content/uploads/2018/04/Toy-Poodle-on-White-02.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/small-munsterlander/",
@@ -1263,7 +1389,8 @@
     "weight": "40-60 pounds",
     "life_expectancy": "12-14 years",
     "group": "Miscellaneous Class",
-    "temperament": "Intelligent, Devoted, Self-confident"
+    "temperament": "Intelligent, Devoted, Self-confident",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Munsterlander.5.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/sealyham-terrier/",
@@ -1273,7 +1400,8 @@
     "weight": "23-24 pounds (male), slightly le",
     "life_expectancy": "12-14 years",
     "group": "Terrier",
-    "temperament": "Alert, Outgoing, Sense of humor"
+    "temperament": "Alert, Outgoing, Sense of humor",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Sealyham-Terrier-standing-in-three-quarter-view.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/dogo-argentino/",
@@ -1283,7 +1411,8 @@
     "weight": "80-100 pounds",
     "life_expectancy": "9-15 years",
     "group": "Working",
-    "temperament": "Loyal, Courageous, Athletic"
+    "temperament": "Loyal, Courageous, Athletic",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/11141747/Dogo-Argentino.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/yorkshire-terrier/",
@@ -1293,7 +1422,8 @@
     "weight": "7 pounds",
     "life_expectancy": "11-15 years",
     "group": "Toy",
-    "temperament": "Affectionate, Sprightly, Tomboyish"
+    "temperament": "Affectionate, Sprightly, Tomboyish",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Yorkshire-Terrier-standing-outdoors-on-a-sunny-day.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/toy-fox-terrier/",
@@ -1303,7 +1433,8 @@
     "weight": "4 - 9 lbs",
     "life_expectancy": "13-15 years",
     "group": "Toy",
-    "temperament": "Alert, Intelligent, Friendly"
+    "temperament": "Alert, Intelligent, Friendly",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Toy-Fox-Terrier-standing-portrait.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/volpino-italiano/",
@@ -1313,7 +1444,8 @@
     "weight": "10-16 pounds (males), 8-12 pounds (females)",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Energetic, Loving"
+    "temperament": "Loyal, Energetic, Loving",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/03/29122034/Volpino-Italiano-standing-in-profile-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/english-cocker-spaniel/",
@@ -1323,7 +1455,8 @@
     "weight": "28-34 pounds (male), 26-32 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Sporting",
-    "temperament": "Energetic, Merry, Responsive"
+    "temperament": "Energetic, Merry, Responsive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/English-Cocker-Spaniel-Slide03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/poodle-miniature/",
@@ -1333,7 +1466,8 @@
     "weight": "10-15 pounds",
     "life_expectancy": "10-18 years",
     "group": "Non Sporting",
-    "temperament": "Active, Proud, Very smart"
+    "temperament": "Active, Proud, Very smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Poodle-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/ibizan-hound/",
@@ -1343,7 +1477,8 @@
     "weight": "50 pounds (male), 45 pounds (female)",
     "life_expectancy": "11-14 years",
     "group": "Hound",
-    "temperament": "Family-oriented, Even-tempered, Polite"
+    "temperament": "Family-oriented, Even-tempered, Polite",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Ibizan-Hound-sitting-in-profile-in-the-desert.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/kerry-blue-terrier/",
@@ -1353,7 +1488,8 @@
     "weight": "33-40 pounds (male), females wei",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Alert, Smart, People-oriented"
+    "temperament": "Alert, Smart, People-oriented",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Kerry-Blue-Terrier-standing-stacked-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/black-and-tan-coonhound/",
@@ -1363,7 +1499,8 @@
     "weight": "65-110 pounds",
     "life_expectancy": "10-12 years",
     "group": "Hound",
-    "temperament": "Easy-going, Bright, Brave"
+    "temperament": "Easy-going, Bright, Brave",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Black-and-Tan-Coonhound-On-White-031.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bloodhound/",
@@ -1373,7 +1510,8 @@
     "weight": "90-110 pounds (male), 80-100 pounds (female)",
     "life_expectancy": "10-12 years",
     "group": "Hound",
-    "temperament": "Independent, Friendly, Inquisitive"
+    "temperament": "Independent, Friendly, Inquisitive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bloodhound-on-a-scent-in-the-woods.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/border-terrier/",
@@ -1383,7 +1521,8 @@
     "weight": "13-15.5 pounds (male), 11.5-14 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Affectionate, Happy, Plucky"
+    "temperament": "Affectionate, Happy, Plucky",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Border-Terrier-On-White-03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/borzoi/",
@@ -1393,7 +1532,8 @@
     "weight": "75-105 pounds (male), 60-85 pounds (female)",
     "life_expectancy": "9-14 years",
     "group": "Hound",
-    "temperament": "Loyal, Affectionate, Regally dignified"
+    "temperament": "Loyal, Affectionate, Regally dignified",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Borzoi-running-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/briard/",
@@ -1403,7 +1543,8 @@
     "weight": "55-100 pounds",
     "life_expectancy": "12 years",
     "group": "Herding",
-    "temperament": "Confident, Smart, Faithful"
+    "temperament": "Confident, Smart, Faithful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Briard-standing-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/cairn-terrier/",
@@ -1413,7 +1554,8 @@
     "weight": "14 pounds (male), 13 pounds (female)",
     "life_expectancy": "13-15 years",
     "group": "Terrier",
-    "temperament": "Alert, Cheerful, Busy"
+    "temperament": "Alert, Cheerful, Busy",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Cairn-Terrier-sitting-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/collie/",
@@ -1423,7 +1565,8 @@
     "weight": "60-75 pounds (male), 50-65 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Herding",
-    "temperament": "Devoted, Proud, Graceful"
+    "temperament": "Devoted, Proud, Graceful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Collie-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/italian-greyhound/",
@@ -1433,7 +1576,8 @@
     "weight": "7-14 pounds",
     "life_expectancy": "14-15 years",
     "group": "Toy",
-    "temperament": "Alert, Playful, Sensitive"
+    "temperament": "Alert, Playful, Sensitive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Two-Italian-Greyhounds.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/manchester-terrier-standard/",
@@ -1443,7 +1587,8 @@
     "weight": "12-22 pounds",
     "life_expectancy": "15-17 years",
     "group": "Terrier",
-    "temperament": "Bright, Spirited, Keenly observant"
+    "temperament": "Bright, Spirited, Keenly observant",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Manchester-Terrier-Standard-on-White-08.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/manchester-terrier-toy/",
@@ -1453,7 +1598,8 @@
     "weight": "under 12 pounds",
     "life_expectancy": "15-17 years",
     "group": "Toy",
-    "temperament": "Intelligent, Agile, Spirited"
+    "temperament": "Intelligent, Agile, Spirited",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/04/26221428/Manchester-Terrier-Slide-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/norwich-terrier/",
@@ -1463,7 +1609,8 @@
     "weight": "12 pounds",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Alert, Curious, Loyal, Affectionate, Gregarious"
+    "temperament": "Alert, Curious, Loyal, Affectionate, Gregarious",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Norwich-Terrier-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/",
@@ -1473,7 +1620,8 @@
     "weight": "up to 30 pounds (male), up to 28 pounds (female)",
     "life_expectancy": "12-13 years",
     "group": "Herding",
-    "temperament": "Alert, Affectionate, Smart"
+    "temperament": "Alert, Affectionate, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/petit-basset-griffon-vendeen/",
@@ -1483,7 +1631,8 @@
     "weight": "25-40 pounds",
     "life_expectancy": "14-16 years",
     "group": "Hound",
-    "temperament": "Alert, Happy, Vivacious"
+    "temperament": "Alert, Happy, Vivacious",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Petit-Basset-Griffon-Vendeen-On-White-03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/rat-terrier/",
@@ -1493,7 +1642,8 @@
     "weight": "10-25 pounds",
     "life_expectancy": "12-18 years",
     "group": "Terrier",
-    "temperament": "Friendly, Inquisitive, Lovable"
+    "temperament": "Friendly, Inquisitive, Lovable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Rat-Terrier-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bulldog/",
@@ -1503,7 +1653,8 @@
     "weight": "50 pounds (male), 40 pounds (female)",
     "life_expectancy": "8-10 years",
     "group": "Non Sporting",
-    "temperament": "Friendly, Courageous, Calm"
+    "temperament": "Friendly, Courageous, Calm",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bulldog-standing-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/american-foxhound/",
@@ -1513,7 +1664,8 @@
     "weight": "65-70 pounds (male), 60-65 pounds (female)",
     "life_expectancy": "11-13 years",
     "group": "Hound",
-    "temperament": "Independent, Easy-going, Sweet-tempered"
+    "temperament": "Independent, Easy-going, Sweet-tempered",
+    "image_url": "https://www.akc.org/wp-content/uploads/2020/05/american-foxhound-pair-looking-up.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/american-staffordshire-terrier/",
@@ -1523,7 +1675,8 @@
     "weight": "55-70 pounds (male), 40-55 pounds (female)",
     "life_expectancy": "12-16 years",
     "group": "Terrier",
-    "temperament": "Good-natured, Confident, Smart"
+    "temperament": "Good-natured, Confident, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/AmStaff.01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/american-water-spaniel/",
@@ -1533,7 +1686,8 @@
     "weight": "30-45 pounds (male), 25-40 pounds (female)",
     "life_expectancy": "10-14 years",
     "group": "Sporting",
-    "temperament": "Charming, Eager, Happy"
+    "temperament": "Charming, Eager, Happy",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/American-Water-Spaniel.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/australian-terrier/",
@@ -1543,7 +1697,8 @@
     "weight": "15-20 pounds",
     "life_expectancy": "11-15 years",
     "group": "Terrier",
-    "temperament": "Courageous, Affectionate, Spirited"
+    "temperament": "Courageous, Affectionate, Spirited",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Terrier-standing-in-the-garden.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/azawakh/",
@@ -1553,7 +1708,8 @@
     "weight": "44-55 pounds (male), 33-44 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Hound",
-    "temperament": "Independent, Loyal, Deeply affectionate"
+    "temperament": "Independent, Loyal, Deeply affectionate",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Azawakh_178091272.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/barbet/",
@@ -1563,7 +1719,8 @@
     "weight": "35-65 pounds",
     "life_expectancy": "12-14 years",
     "group": "Sporting",
-    "temperament": "Friendly, Bright, Sweet-natured"
+    "temperament": "Friendly, Bright, Sweet-natured",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Barbet-standing-in-the-snow.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/basenji/",
@@ -1573,7 +1730,8 @@
     "weight": "24 pounds (male), 22 pounds (female)",
     "life_expectancy": "13-14 years",
     "group": "Hound",
-    "temperament": "Independent, Smart, Poised"
+    "temperament": "Independent, Smart, Poised",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Basenji-running-through-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pharaoh-hound/",
@@ -1583,7 +1741,8 @@
     "weight": "45-55 pounds",
     "life_expectancy": "12-14 years",
     "group": "Hound",
-    "temperament": "Friendly, Smart, Noble"
+    "temperament": "Friendly, Smart, Noble",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pharaoh-Hound-laying-down-in-profile.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/cesky-terrier/",
@@ -1593,7 +1752,8 @@
     "weight": "14-24 pounds",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Clever, Adventurous, Family-oriented"
+    "temperament": "Clever, Adventurous, Family-oriented",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Cesky-Terrier-on-White-011.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/affenpinscher/",
@@ -1603,7 +1763,8 @@
     "weight": "7-10 pounds",
     "life_expectancy": "12-15 years",
     "group": "Toy",
-    "temperament": "Confident, Famously funny, Fearless"
+    "temperament": "Confident, Famously funny, Fearless",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/05/21144745/Affenpinscher-running.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/afghan-hound/",
@@ -1613,7 +1774,8 @@
     "weight": "50-60 pounds",
     "life_expectancy": "12-18 years",
     "group": "Hound",
-    "temperament": "Independent, Sweet"
+    "temperament": "Independent, Sweet",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26151212/Afghan-Hound-standing-in-a-garden.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/airedale-terrier/",
@@ -1623,7 +1785,8 @@
     "weight": "50-70 pounds",
     "life_expectancy": "11-14 years",
     "group": "Terrier",
-    "temperament": "Friendly, Courageous, Clever"
+    "temperament": "Friendly, Courageous, Clever",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30202205/Airedale-Terrier-standing-stacked-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/alaskan-malamute/",
@@ -1633,7 +1796,8 @@
     "weight": "85 pounds (male), 75 pounds (female)",
     "life_expectancy": "10-14 years",
     "group": "Working",
-    "temperament": "Loyal, Playful, Affectionate"
+    "temperament": "Loyal, Playful, Affectionate",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Alaskan-Malamute-standing-in-the-grass1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/brussels-griffon/",
@@ -1643,7 +1807,8 @@
     "weight": "8-10 pounds",
     "life_expectancy": "12-15 years",
     "group": "Toy",
-    "temperament": "Alert, Curious, Loyal"
+    "temperament": "Alert, Curious, Loyal",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Brussels-Griffon-sitting-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/drever/",
@@ -1653,7 +1818,8 @@
     "weight": "35-40 pounds",
     "life_expectancy": "15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Determined, Even-tempered"
+    "temperament": "Loyal, Determined, Even-tempered",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Drever-face.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/greyhound/",
@@ -1663,7 +1829,8 @@
     "weight": "65-70 pounds (male), 60-65 pounds (female)",
     "life_expectancy": "10-13 years",
     "group": "Hound",
-    "temperament": "Independent, Gentle, Noble"
+    "temperament": "Independent, Gentle, Noble",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Greyhound-running.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/russian-toy/",
@@ -1673,7 +1840,8 @@
     "weight": "Up to 6.5 pounds",
     "life_expectancy": "12-14 years",
     "group": "Toy",
-    "temperament": "Loyal, Charming, Smart"
+    "temperament": "Loyal, Charming, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Russian-Toy.4.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/romanian-carpathian-shepherd/",
@@ -1682,7 +1850,8 @@
     "weight": "70 - 100 lbs",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Brave"
+    "temperament": "Loyal, Brave",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2022/01/07140443/Romanian-Carpathian-Shepherd-standing-with-a-shepherd-in-a-field-copy.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/tibetan-mastiff/",
@@ -1692,7 +1861,8 @@
     "weight": "90-150 pounds (male), 70-120 pounds (female)",
     "life_expectancy": "10-12 years",
     "group": "Working",
-    "temperament": "Reserved, Independent, Intelligent"
+    "temperament": "Reserved, Independent, Intelligent",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Mastiff-laying-down-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/basset-hound/",
@@ -1702,7 +1872,8 @@
     "weight": "40-65 pounds",
     "life_expectancy": "12-13 years",
     "group": "Hound",
-    "temperament": "Charming, Patient, Low-key"
+    "temperament": "Charming, Patient, Low-key",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Basset-Hound-standing-in-the-garden.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/alaskan-klee-kai/",
@@ -1712,7 +1883,8 @@
     "weight": "6 - 25 lbs",
     "life_expectancy": "13-16 years",
     "group": "Miscellaneous Class",
-    "temperament": "Loyal, Intelligent, Vigilant"
+    "temperament": "Loyal, Intelligent, Vigilant",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2021/01/29143827/Alaskan-Klee-Kai-standing-in-the-snow-attached-to-a-harness.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/soft-coated-wheaten-terrier/",
@@ -1722,7 +1894,8 @@
     "weight": "35-40 pounds (male), 30-35 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Terrier",
-    "temperament": "Friendly, Happy, Deeply devoted"
+    "temperament": "Friendly, Happy, Deeply devoted",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Soft-Coated-Wheaten-Terrier-sitting-in-a-field-of-wildflowers.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/field-spaniel/",
@@ -1732,7 +1905,8 @@
     "weight": "35-50 pounds",
     "life_expectancy": "12-13 years",
     "group": "Sporting",
-    "temperament": "Sweet, Fun-loving, Sensitive"
+    "temperament": "Sweet, Fun-loving, Sensitive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Field-Spaniels-of-different-colors-sitting-together-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/boxer/",
@@ -1742,7 +1916,8 @@
     "weight": "65-80 pounds (male), females are about 15 pounds less than male",
     "life_expectancy": "10-12 years",
     "group": "Working",
-    "temperament": "Active, Bright, Fun-loving"
+    "temperament": "Active, Bright, Fun-loving",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Boxer.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/saluki/",
@@ -1752,7 +1927,8 @@
     "weight": "40-65 pounds",
     "life_expectancy": "10-17 years",
     "group": "Hound",
-    "temperament": "Dignified, Gentle, Independent-minded"
+    "temperament": "Dignified, Gentle, Independent-minded",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/AKC-121716-139.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/cirneco-delletna/",
@@ -1762,7 +1938,8 @@
     "weight": "20-28 pounds (male), 19-25 pounds (female)",
     "life_expectancy": "15-16 years",
     "group": "Hound",
-    "temperament": "Independent, Friendly, Affectionate"
+    "temperament": "Independent, Friendly, Affectionate",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Cirneco-dellEtna-hunting.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/american-hairless-terrier/",
@@ -1772,7 +1949,8 @@
     "weight": "12-28 pounds",
     "life_expectancy": "14-16 years",
     "group": "Terrier",
-    "temperament": "Alert, Curious, Energetic"
+    "temperament": "Alert, Curious, Energetic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/American-Hairless-Terrier-standing-in-the-grass-on-lead.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/russian-tsvetnaya-bolonka/",
@@ -1782,7 +1960,8 @@
     "weight": "6 - 9 pounds",
     "life_expectancy": "14-20 years",
     "group": "Toy",
-    "temperament": "Playful, Charming, Inquisitive"
+    "temperament": "Playful, Charming, Inquisitive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Russian-Tsvetnaya-Bolonka-standing-on-a-white-background.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/coton-de-tulear/",
@@ -1792,7 +1971,8 @@
     "weight": "9-15 pounds (male), 8-13 pounds (female)",
     "life_expectancy": "15-19 years",
     "group": "Non Sporting",
-    "temperament": "Charming, Bright, Happy-go-lucky"
+    "temperament": "Charming, Bright, Happy-go-lucky",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Coton-de-Tulear-standing-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/flat-coated-retriever/",
@@ -1802,7 +1982,8 @@
     "weight": "60-70 pounds",
     "life_expectancy": "8-10 years",
     "group": "Sporting",
-    "temperament": "Cheerful, Optimistic, Good-humored"
+    "temperament": "Cheerful, Optimistic, Good-humored",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Flat-Coated-Retrievers-sitting-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/german-wirehaired-pointer/",
@@ -1812,7 +1993,8 @@
     "weight": "50-70 pounds",
     "life_expectancy": "14-16 years",
     "group": "Sporting",
-    "temperament": "Affectionate, Eager, Enthusiastic"
+    "temperament": "Affectionate, Eager, Enthusiastic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/German-Wirehaired-Pointer-standing-in-a-green-grassy-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/poodle-standard/",
@@ -1822,7 +2004,8 @@
     "weight": "60-70 pounds (male standard), 40-50 pounds (female standard)",
     "life_expectancy": "10-18 years",
     "group": "Non Sporting",
-    "temperament": "Active, Proud, Very smart"
+    "temperament": "Active, Proud, Very smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Standard-Poodle-standing-outdoors-at-the-beach.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/romanian-mioritic-shepherd-dog/",
@@ -1832,7 +2015,8 @@
     "weight": "100-130 lbs",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Independent, Loyal, Confident guardian"
+    "temperament": "Independent, Loyal, Confident guardian",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2018/07/19173802/Romanian-Mioritic-Shepherd-Dog-laying-in-a-field-in-a-mountainous-landscape.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/braque-francais-pyrenean/",
@@ -1842,7 +2026,8 @@
     "weight": "40-55 pounds",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Friendly, Smart, Willing to please"
+    "temperament": "Friendly, Smart, Willing to please",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Braque-Francais-Pyrenean.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/drentsche-patrijshond/",
@@ -1850,7 +2035,8 @@
     "about": "The breed developed from pointing dogs originating in Spain (Spioenen) and arrived in The Netherlands via France in the 16th Century. In The Netherlands, these dogs were referred to as Partridge dogs. In the Province of Drenthe, these Partridge dogs were bred among themselves and not mixed with foreign breeds, as occurred elsewhere. Throughout the Drent\u2014s history, the breed stood on three equally important pillars: versatile hunting dog, farmyard dog, and playmate to the children. It is fundamental to the Drent breed that he hunts all upland game and waterfowl, announces visitors to the home or farm (without showing aggression or fear), and is an excellent family companion. The Drent is used to hunt a variety of terrain and game. His adaptability makes him suitable for all manner of game in the field as well as waterfowl. Moreover, his work after the shot is exceptional, and he is a good retriever. These characteristics are innate, and the dog therefore needs little field training. Due to the dog's soft nature forceful training methods are inappropriate. The dog is expected to bark to announce visitors to the home and is often reserved towards strangers until the owner welcomes them, meaning the Drent may be shy in the beginning but never fearful. The dog is loyal and intelligent and, with proper upbringing, a pet of exceptional value on top of being a good hunting buddy. Club Contact Details Drentsche Patrijshond Club of North America www.dpcna.org Email: board@dpcna.org American Drentsche Patrijshond Association https://www.americandrentassociation.org/ Pronunciation - Da-rinse Pah-trice-hoon",
     "life_expectancy": "11-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Intelligent, Friendly"
+    "temperament": "Loyal, Intelligent, Friendly",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Drentsche-Patrijshond-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/broholmer/",
@@ -1860,7 +2046,8 @@
     "weight": "90-150 pounds",
     "life_expectancy": "8-10 years",
     "group": "Foundation Stock Service",
-    "temperament": "Friendly, Loving, Watchful"
+    "temperament": "Friendly, Loving, Watchful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Broholmer-laying-down-in-the-park.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/belgian-tervuren/",
@@ -1870,7 +2057,8 @@
     "weight": "55-75 pounds (male), 45-60 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Herding",
-    "temperament": "Alert, Intelligent, Courageous"
+    "temperament": "Alert, Intelligent, Courageous",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Tervuren.3.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bracco-italiano/",
@@ -1880,7 +2068,8 @@
     "weight": "55-90 pounds",
     "life_expectancy": "10-14 years",
     "group": "Sporting",
-    "temperament": "Intelligent, Affectionate, Enthusiastic"
+    "temperament": "Intelligent, Affectionate, Enthusiastic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bracco.7.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/treeing-walker-coonhound/",
@@ -1890,7 +2079,8 @@
     "weight": "50-70 pounds",
     "life_expectancy": "12-13 years",
     "group": "Hound",
-    "temperament": "Smart, Brave, Courteous"
+    "temperament": "Smart, Brave, Courteous",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Treeing-Walker-Coonhound.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bohemian-shepherd/",
@@ -1900,7 +2090,8 @@
     "weight": "41-60 pounds (males), 37-53 pounds (females)",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Friendly, devoted, alert and intelligent"
+    "temperament": "Friendly, devoted, alert and intelligent",
+    "image_url": "https://www.akc.org/wp-content/uploads/2019/06/Bohemian-Shepherd-standing-in-profile-in-a-field-of-tall-brown-grasses.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/kishu-ken/",
@@ -1910,7 +2101,8 @@
     "weight": "30-60 pounds",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Good-natured, Confident"
+    "temperament": "Alert, Good-natured, Confident",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Kishu-Ken-standing-in-the-brush-at-sunset.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/kai-ken/",
@@ -1918,7 +2110,8 @@
     "about": "Kai Ken are athletic and intelligent with a strong desire to hunt. The Kai is an independent thinker and can form a strong bond with their family. They are excellent swimmers and climbers and have been known to climb trees and swim rivers in pursuit of game. Kai have a distinct brindle coat that comes in three colors: Black Brindle (Kuro-Tora), Brindle (Chu-Tora), and Red Brindle (Aka-Tora). Red brindle is the rarest of the coat colors. The distinct coloring and brindle pattern enabled the dog to blend in to the mountainous forests in which it hunted, camouflaging it against prey and predators in ancient times. The amount of brindle will vary from dog to dog as well as the brindle pattern. Most puppies are born completely black and their brindle will emerge as they age and will continue to change for around the first five years of their life. In the home, the Kai Ken requires basic canine care. They can be kept in an apartment setting provided they receive regular exercise in the form of leashed walks. Being a naturally clean breed, bathing should be limited to only when dirty. Brushing is recommended, especially during twice-a-year coat blowing. Club Contact Details Kai Ken Society of America www.kaisociety.com club@kaisociety.com",
     "life_expectancy": "12-15 years",
     "group": "Miscellaneous Class",
-    "temperament": "Loyal, Intelligent, Agile"
+    "temperament": "Loyal, Intelligent, Agile",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Kai-Ken-standing-in-profile-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/dutch-shepherd/",
@@ -1928,7 +2121,8 @@
     "weight": "42-75 pounds",
     "life_expectancy": "11-14 years",
     "group": "Miscellaneous Class",
-    "temperament": "Intelligent, Lively, Athletic"
+    "temperament": "Intelligent, Lively, Athletic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Dutch-Shepherd-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/rafeiro-do-alentejo/",
@@ -1938,7 +2132,8 @@
     "weight": "77-132 pounds",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Confident, Calm, Powerful"
+    "temperament": "Confident, Calm, Powerful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Rafeiro-do-Alentejo-standing-outdoors-in-a-field-1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/french-spaniel/",
@@ -1948,7 +2143,8 @@
     "weight": "50-60 pounds",
     "life_expectancy": "10-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Sociable, Gentle"
+    "temperament": "Intelligent, Sociable, Gentle",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/French-Spaniel-Gallery-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/plott-hound/",
@@ -1958,7 +2154,8 @@
     "weight": "50-60 pounds (male), 40-55 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Hound",
-    "temperament": "Loyal, Alert, Intelligent"
+    "temperament": "Loyal, Alert, Intelligent",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/IMG_8947.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/mudi/",
@@ -1968,7 +2165,8 @@
     "weight": "18-29 pounds",
     "life_expectancy": "12-14 years",
     "group": "Herding",
-    "temperament": "Loyal, Intelligent, Active"
+    "temperament": "Loyal, Intelligent, Active",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/03140458/Mudi-sitting-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/scottish-deerhound/",
@@ -1978,7 +2176,8 @@
     "weight": "85-110 pounds (male), 75-95 pounds (female)",
     "life_expectancy": "8-11 years",
     "group": "Hound",
-    "temperament": "Dignified, Gentle, Polite"
+    "temperament": "Dignified, Gentle, Polite",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Deerhound-standing-in-the-woods.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/appenzeller-sennenhund/",
@@ -1988,7 +2187,8 @@
     "weight": "48-70 pounds",
     "life_expectancy": "13-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Versatile, Agile, Lively"
+    "temperament": "Versatile, Agile, Lively",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/AdobeStock_11176134.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/brazilian-terrier/",
@@ -1998,7 +2198,8 @@
     "weight": "22 lbs",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loving, Courageous, Affectionate"
+    "temperament": "Loving, Courageous, Affectionate",
+    "image_url": "https://www.akc.org/wp-content/uploads/2023/07/Brazilian-Terrier-standing-in-the-yard-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/lapponian-herder/",
@@ -2008,7 +2209,8 @@
     "weight": "70 pounds",
     "life_expectancy": "10-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Friendly, Energetic"
+    "temperament": "Intelligent, Friendly, Energetic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Lapponian-Herders-standing-together-in-the-shallows.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/taiwan-dog/",
@@ -2018,7 +2220,8 @@
     "weight": "26-40 pounds",
     "life_expectancy": "9-13 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Intelligent, Versatile"
+    "temperament": "Loyal, Intelligent, Versatile",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Taiwan-Dog-sitting-in-the-park.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/german-pinscher/",
@@ -2028,7 +2231,8 @@
     "weight": "25-45 pounds",
     "life_expectancy": "12-14 years",
     "group": "Working",
-    "temperament": "Intelligent, Courageous, Vivacious"
+    "temperament": "Intelligent, Courageous, Vivacious",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/German-Pinscher-standing-near-a-lake.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/german-spitz/",
@@ -2037,7 +2241,8 @@
     "weight": "Small 10-11 lbs, Med 15 - 25 lbs, Large 30- 50 lbs",
     "life_expectancy": "13-15 years",
     "group": "Miscellaneous Class",
-    "temperament": "Active, Devoted, Smart"
+    "temperament": "Active, Devoted, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/German-Spitz-standing-in-profile-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pont-audemer-spaniel/",
@@ -2046,7 +2251,8 @@
     "weight": "38 - 48 males lbs, 33 - 40 females lbs",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Affectionate, Gentle, Fun-loving"
+    "temperament": "Affectionate, Gentle, Fun-loving",
+    "image_url": "https://www.akc.org/wp-content/uploads/2023/07/Pont-Audemer-Spaniel-on-point-outdoors-while-hunting.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/large-munsterlander/",
@@ -2056,7 +2262,8 @@
     "weight": "50 - 70 lbs",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Affectionate, Self-confident"
+    "temperament": "Intelligent, Affectionate, Self-confident",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2023/08/13114901/Large-Munsterlander-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bolognese/",
@@ -2066,7 +2273,8 @@
     "weight": "6-10 pounds",
     "life_expectancy": "12-14 years",
     "group": "Miscellaneous Class",
-    "temperament": "Playful, Easy-going, Devoted"
+    "temperament": "Playful, Easy-going, Devoted",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/24113424/Bolognese-together-on-a-patio-chair-in-the-shade.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/chinese-crested/",
@@ -2076,7 +2284,8 @@
     "weight": "8-12 pounds",
     "life_expectancy": "13-18 years",
     "group": "Toy",
-    "temperament": "Alert, Lively, Affectionate"
+    "temperament": "Alert, Lively, Affectionate",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20120506/Chinese-Cresteds-one-hairless-and-one-powderpuff.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/biewer-terrier/",
@@ -2086,7 +2295,8 @@
     "weight": "4-8 pounds",
     "life_expectancy": "16 years",
     "group": "Toy",
-    "temperament": "Intelligent, Devoted, Amusing"
+    "temperament": "Intelligent, Devoted, Amusing",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14124534/Biewer-Terrier-standing-on-a-white-background1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/puli/",
@@ -2096,7 +2306,8 @@
     "weight": "25-35 pounds",
     "life_expectancy": "10-15 years",
     "group": "Herding",
-    "temperament": "Loyal, Smart, Home-loving"
+    "temperament": "Loyal, Smart, Home-loving",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Puli-sitting-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/korean-jindo-dog/",
@@ -2104,7 +2315,8 @@
     "about": "The Jindo Dog is a well-proportioned, medium-sized dog used for hunting and guarding. With erect ears and a rolled or sickle-shaped tail, it should be a vivid expression of agility, strength, alertness and dignity.The Jindo has a very strong instinct for hunting and is bold, brave, alert and careful, not tempted easily and impetuous. But most of all he is extremely faithful to his master. On the whole he is not fond of other animals, especially males. He also has a good sense of direction. A one-man dog, he readily accepts a new master, but never forgets his attachment towards the former master who raised him from puppyhood. He keeps himself clean and eats sparingly. Club Contact Details Korean Jindo Association of America Website: www.jindos.org Club Contact Ann Kim Email: jindojunkie@yahoo.com",
     "life_expectancy": "14-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Loyal, Intelligent"
+    "temperament": "Alert, Loyal, Intelligent",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Jindo-standing-in-the-yard.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/presa-canario/",
@@ -2114,7 +2326,8 @@
     "weight": "84-110 pounds",
     "life_expectancy": "9-11 years",
     "group": "Foundation Stock Service",
-    "temperament": "Strong-willed, Confident, Calm"
+    "temperament": "Strong-willed, Confident, Calm",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Perro-de-Presa-Canario.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/czechoslovakian-vlciak/",
@@ -2122,7 +2335,8 @@
     "about": "An alert, primitive canine that resembles a wolf in appearance. They are highly intelligent, powerful, active, loyal and devoted to their owner. They have superior eyesight, hearing and sense of smell and are known for having excellent stamina and endurance. The Czechoslovakian Vlcak (CSV) was originally bred for working border patrol in Czechoslovakia in the 1950s. They are currently used in Europe and the United States for search and rescue, tracking, obedience, agility, drafting, herding, and working dog sports. The CSV is bred for versatility and hardiness in harsh elements and is much more independent in nature than many other working breeds. They are an excellent choice for tracking or trailing sport/work, or as a companion for active owners who enjoy spending time doing outdoor activities such as biking, running, or hiking. They are not, however, recommended for first time owners. Club Contact Details Czechoslovakian Vlcak Club of America vlcaksusa@gmail.com Pronunciation - Check-slow-vaa-kee-an Vul-Chuck",
     "life_expectancy": "12-16 years",
     "group": "Miscellaneous Class",
-    "temperament": "Loyal, Intelligent, Active"
+    "temperament": "Loyal, Intelligent, Active",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Czechoslovakian-Vlcak.179296809.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/lancashire-heeler/",
@@ -2132,7 +2346,8 @@
     "weight": "9-17 pounds",
     "life_expectancy": "12-15 years",
     "group": "Herding",
-    "temperament": "Intelligent, Versatile, Affectionate"
+    "temperament": "Intelligent, Versatile, Affectionate",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Lancashire-heeler.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/great-dane/",
@@ -2142,7 +2357,8 @@
     "weight": "140-175 pounds (male), 110-140 pounds (female)",
     "life_expectancy": "7-10 years",
     "group": "Working",
-    "temperament": "Friendly, Patient, Dependable"
+    "temperament": "Friendly, Patient, Dependable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Great-Dane-standing-in-profile-outdoors1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/boston-terrier/",
@@ -2152,7 +2368,8 @@
     "weight": "12-25 pounds",
     "life_expectancy": "11-13 years",
     "group": "Non Sporting",
-    "temperament": "Friendly, Bright, Amusing"
+    "temperament": "Friendly, Bright, Amusing",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Boston-Terrier-head-portrait-outdoors1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/thai-bangkaew/",
@@ -2161,7 +2378,8 @@
     "height": "18-21 inches males, 16-19 inches females",
     "life_expectancy": "14-17 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Alert, Intelligent"
+    "temperament": "Loyal, Alert, Intelligent",
+    "image_url": "https://www.akc.org/wp-content/uploads/2023/08/Thai-Bangkaew-standing-in-profile-outdoors.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/swedish-lapphund/",
@@ -2171,7 +2389,8 @@
     "weight": "30-45 pounds",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Playful, Lively"
+    "temperament": "Intelligent, Playful, Lively",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Swedish-Lapphund-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/american-leopard-hound/",
@@ -2180,7 +2399,8 @@
     "weight": "45 - 75 lbs males, 35 - 65 lbs females",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Intelligent, Sociable, Energetic"
+    "temperament": "Intelligent, Sociable, Energetic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/American-Leopard-Hound-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/border-collie/",
@@ -2190,7 +2410,8 @@
     "weight": "30-55 pounds",
     "life_expectancy": "12-15 years",
     "group": "Herding",
-    "temperament": "Energetic, Affectionate, Smart"
+    "temperament": "Energetic, Affectionate, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Border-Collie-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/chinook/",
@@ -2200,7 +2421,8 @@
     "weight": "55-90 pounds (male), 50-65 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Working",
-    "temperament": "Devoted, Smart, Patient"
+    "temperament": "Devoted, Smart, Patient",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Chinook-On-White-03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/dogue-de-bordeaux/",
@@ -2210,7 +2432,8 @@
     "weight": "110 pounds & up (male), 99 pounds & up (female)",
     "life_expectancy": "5-8 years",
     "group": "Working",
-    "temperament": "Loyal, Courageous, Affectionate"
+    "temperament": "Loyal, Courageous, Affectionate",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Dogue-de-Bordeaux-On-White-03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/german-shorthaired-pointer/",
@@ -2220,7 +2443,8 @@
     "weight": "55-70 pounds (male), 45-60 pounds (female)",
     "life_expectancy": "10-12 years",
     "group": "Sporting",
-    "temperament": "Friendly, Smart, Willing to please"
+    "temperament": "Friendly, Smart, Willing to please",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/German-Shorthaired-Pointer-On-White-07.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pyrenean-mastiff/",
@@ -2230,7 +2454,8 @@
     "weight": "120-190 pounds",
     "life_expectancy": "10-12 years",
     "group": "Miscellaneous Class",
-    "temperament": "Gentle, Brave, Noble"
+    "temperament": "Gentle, Brave, Noble",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pyrenean-Mastiff-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/schapendoes/",
@@ -2240,7 +2465,8 @@
     "weight": "26-55 pounds",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Friendly, Watchful, Lively"
+    "temperament": "Friendly, Watchful, Lively",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Schapendoes-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/scottish-terrier/",
@@ -2250,7 +2476,8 @@
     "weight": "19-22 pounds (male), 18-21 pounds (female)",
     "life_expectancy": "12 years",
     "group": "Terrier",
-    "temperament": "Independent, Confident, Spirited"
+    "temperament": "Independent, Confident, Spirited",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Scottish-Terrier-On-White-02.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/transylvanian-hound/",
@@ -2260,7 +2487,8 @@
     "weight": "Minimum 55 pounds",
     "life_expectancy": "10-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Good-natured, Courageous, Determined"
+    "temperament": "Good-natured, Courageous, Determined",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Transylvanian-Hound-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/american-bulldog/",
@@ -2270,7 +2498,8 @@
     "weight": "75-100 pounds (males); 60-80 pounds (females)",
     "life_expectancy": "10-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Self-confident"
+    "temperament": "Loyal, Self-confident",
+    "image_url": "https://www.akc.org/wp-content/uploads/2020/01/American-Bulldog-standing-in-three-quarter-view.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/redbone-coonhound/",
@@ -2280,7 +2509,8 @@
     "weight": "45-70 pounds",
     "life_expectancy": "12-15 years",
     "group": "Hound",
-    "temperament": "Eager to please, Even-tempered, Amiable"
+    "temperament": "Eager to please, Even-tempered, Amiable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Redbone-Coonhound.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/japanese-akitainu/",
@@ -2290,7 +2520,8 @@
     "weight": "65-75 pounds (male), 55-65 pounds (female)",
     "life_expectancy": "10-12 years",
     "group": "Miscellaneous Class",
-    "temperament": "Dignified, Alert, Aloof"
+    "temperament": "Dignified, Alert, Aloof",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/10/29181624/Japanese-Akitainu-laying-down-in-the-snow.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/carolina-dog/",
@@ -2300,7 +2531,8 @@
     "weight": "30-55 pounds",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Independent, Loyal, Reserved with strangers"
+    "temperament": "Independent, Loyal, Reserved with strangers",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Carolina-Dog-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/catahoula-leopard-dog/",
@@ -2310,7 +2542,8 @@
     "weight": "50-95 pounds",
     "life_expectancy": "10-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Independent, Loyal, Watchful"
+    "temperament": "Independent, Loyal, Watchful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Catahoula-Leopard-Dog-on-White-02.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/danish-swedish-farmdog/",
@@ -2320,7 +2553,8 @@
     "weight": "15-20 pounds",
     "life_expectancy": "11-13 years",
     "group": "Working",
-    "temperament": "Energetic, Trainable, Attentive"
+    "temperament": "Energetic, Trainable, Attentive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Danish-Swedish-Farmdog-standing-outdoors-at-dusk.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/american-english-coonhound/",
@@ -2330,7 +2564,8 @@
     "weight": "45-65 pounds",
     "life_expectancy": "11-12 years",
     "group": "Hound",
-    "temperament": "Sociable, Sweet, Mellow"
+    "temperament": "Sociable, Sweet, Mellow",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/American-English-Coonhound-howling-in-a-field1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/australian-stumpy-tail-cattle-dog/",
@@ -2340,7 +2575,8 @@
     "weight": "38-45 lbs (males), 32-35 lbs (females)",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Active, Bidable"
+    "temperament": "Alert, Active, Bidable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2018/07/GettyImages-454288321.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/basset-fauve-de-bretagne/",
@@ -2350,7 +2586,8 @@
     "weight": "23-39 pounds",
     "life_expectancy": "13-16 years",
     "group": "Hound",
-    "temperament": "Sociable, Lively, Smart"
+    "temperament": "Sociable, Lively, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/AdobeStock_23183632.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/norwegian-elkhound/",
@@ -2360,7 +2597,8 @@
     "weight": "55 pounds (male), 48 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Hound",
-    "temperament": "Friendly, Confident, Dependable"
+    "temperament": "Friendly, Confident, Dependable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Norwegian-Elkhound-sitting-in-the-snow-looking-back-over-its-shoulder.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/st-bernard/",
@@ -2369,7 +2607,8 @@
     "height": "28-30 inches (males), 26-28 inches (female)",
     "weight": "140-180 pounds (male), 120-140 pounds (female)",
     "life_expectancy": "8-10 years",
-    "group": "Working"
+    "group": "Working",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Saint-Bernard-standing-in-profile-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/nova-scotia-duck-tolling-retriever/",
@@ -2379,7 +2618,8 @@
     "weight": "35-50 pounds",
     "life_expectancy": "12-14 years",
     "group": "Sporting",
-    "temperament": "Intelligent, Affectionate, Outgoing"
+    "temperament": "Intelligent, Affectionate, Outgoing",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Nova-Scotia-Duck-Tolling-Retriever-wading-in-water.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/schipperke/",
@@ -2389,7 +2629,8 @@
     "weight": "10-16 pounds",
     "life_expectancy": "12-16 years",
     "group": "Non Sporting",
-    "temperament": "Alert, Curious, Confident"
+    "temperament": "Alert, Curious, Confident",
+    "image_url": "https://www.akc.org/wp-content/uploads/2022/11/Schipperke-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/sloughi/",
@@ -2399,7 +2640,8 @@
     "weight": "40 -65  pounds",
     "life_expectancy": "10-15 years",
     "group": "Hound",
-    "temperament": "Reserved, Graceful, Noble"
+    "temperament": "Reserved, Graceful, Noble",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Sloughi-in-the-desert.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bouvier-de-ardennes/",
@@ -2408,7 +2650,8 @@
     "height": "Male 22 - 24.5 inches Female 20.5 - 22 inches",
     "weight": "Male 61.5 - 77.5 lbs Female 48.5 - 62 lbs",
     "life_expectancy": "12-16 years",
-    "group": "Foundation Stock Service"
+    "group": "Foundation Stock Service",
+    "image_url": "https://www.akc.org/wp-content/uploads/2024/07/Bouvier-des-Ardennes_standing_outdoors1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/pekingese/",
@@ -2418,7 +2661,8 @@
     "weight": "up to 14 pounds",
     "life_expectancy": "12-14 years",
     "group": "Toy",
-    "temperament": "Loyal, Affectionate, Regal in manner"
+    "temperament": "Loyal, Affectionate, Regal in manner",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Pekingese_standing_portrait.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/japanese-terrier/",
@@ -2428,7 +2672,8 @@
     "weight": "10-12 lbs",
     "life_expectancy": "13-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Reserved, Independent, Curious"
+    "temperament": "Reserved, Independent, Curious",
+    "image_url": "https://www.akc.org/wp-content/uploads/2020/12/Japanese-Terrier-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/blue-picardy-spaniel/",
@@ -2438,7 +2683,8 @@
     "weight": "50-55 lbs males, 45-50 lbs females",
     "life_expectancy": "11-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Friendly, Mellow, Merry"
+    "temperament": "Friendly, Mellow, Merry",
+    "image_url": "https://www.akc.org/wp-content/uploads/2024/07/Blue-Picardy-Spaniel-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/canadian-eskimo-dog/",
@@ -2447,7 +2693,8 @@
     "height": "23-27.5 males; 19.5-23.5 females inches",
     "life_expectancy": "10-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Intelligent, Affectionate"
+    "temperament": "Loyal, Intelligent, Affectionate",
+    "image_url": "https://www.akc.org/wp-content/uploads/2025/01/Canadian-Eskimo-Dog-playing-yard.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/barbado-da-terceira/",
@@ -2457,7 +2704,8 @@
     "weight": "55-60 lbs (males), 46-57 lbs (females)",
     "life_expectancy": "12-14 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Intelligent, Joyful"
+    "temperament": "Loyal, Intelligent, Joyful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2021/02/Barbado-da-Terceira-standing-backyard.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/braque-saint-germain/",
@@ -2467,7 +2715,8 @@
     "weight": "40 - 58 lbs",
     "life_expectancy": "12-15 years",
     "group": "Foundation Stock Service",
-    "temperament": "Affectionate, Loyal, Easily trained"
+    "temperament": "Affectionate, Loyal, Easily trained",
+    "image_url": "https://www.akc.org/wp-content/uploads/2023/07/Braque-Saint-Germain-standing-profile-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/calupoh/",
@@ -2477,7 +2726,8 @@
     "weight": "70 - 100 lbs",
     "life_expectancy": "11-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Loyal, Attentive, Even-tempered"
+    "temperament": "Loyal, Attentive, Even-tempered",
+    "image_url": "https://www.akc.org/wp-content/uploads/2025/02/Calupoh-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/mastiff/",
@@ -2487,7 +2737,8 @@
     "weight": "160-230 pounds (male), 120-170 pounds (female)",
     "life_expectancy": "6-10 years",
     "group": "Working",
-    "temperament": "Dignified, Good-natured, Courageous"
+    "temperament": "Dignified, Good-natured, Courageous",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230849/Mastiff-On-White-03.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/belgian-laekenois/",
@@ -2497,7 +2748,8 @@
     "weight": "55-65 pounds",
     "life_expectancy": "10-12 years",
     "group": "Herding",
-    "temperament": "Alert, Intelligent, Affectionate"
+    "temperament": "Alert, Intelligent, Affectionate",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Laekenois-standing-in-profile-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/staffordshire-bull-terrier/",
@@ -2507,7 +2759,8 @@
     "weight": "28-38 pounds (male), 24-34 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Terrier",
-    "temperament": "Clever, Brave, Tenacious"
+    "temperament": "Clever, Brave, Tenacious",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Staffordshire-Bull-Terrier-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bedlington-terrier/",
@@ -2517,7 +2770,8 @@
     "weight": "17-23 pounds",
     "life_expectancy": "11-16 years",
     "group": "Terrier",
-    "temperament": "Loyal, Charming, Frollicking"
+    "temperament": "Loyal, Charming, Frollicking",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bedlington-Terrier-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/teddy-roosevelt-terrier/",
@@ -2527,7 +2781,8 @@
     "weight": "8-25 pounds",
     "life_expectancy": "14-16 years",
     "group": "Terrier",
-    "temperament": "Intelligent, Playful, Versatile"
+    "temperament": "Intelligent, Playful, Versatile",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/TRT-walk-yard.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/shikoku-ken/",
@@ -2537,7 +2792,8 @@
     "weight": "35-55 pounds",
     "life_expectancy": "10-12 years",
     "group": "Foundation Stock Service",
-    "temperament": "Alert, Energetic, Enthusiastic"
+    "temperament": "Alert, Energetic, Enthusiastic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Shikoku-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/belgian-malinois/",
@@ -2547,7 +2803,8 @@
     "weight": "60-80 pounds (male), 40-60 pounds (female)",
     "life_expectancy": "14-16 years",
     "group": "Herding",
-    "temperament": "Confident, Smart, Hardworking"
+    "temperament": "Confident, Smart, Hardworking",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Malinois-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/cane-corso/",
@@ -2556,7 +2813,8 @@
     "height": "25-27.5 inches (male), 23.5-26 inches (female)",
     "life_expectancy": "9-12 years",
     "group": "Working",
-    "temperament": "Intelligent, Affectionate, Majestic"
+    "temperament": "Intelligent, Affectionate, Majestic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Cane-Corso-AKC-121516-296.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/chihuahua/",
@@ -2566,7 +2824,8 @@
     "weight": "not exceeding 6 pounds",
     "life_expectancy": "14-16 years",
     "group": "Toy",
-    "temperament": "Charming, Graceful, Sassy"
+    "temperament": "Charming, Graceful, Sassy",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Chihuahua-standing-in-three-quarter-view.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/cavalier-king-charles-spaniel/",
@@ -2576,7 +2835,8 @@
     "weight": "13-18 pounds",
     "life_expectancy": "12-15 years",
     "group": "Toy",
-    "temperament": "Affectionate, Gentle, Graceful"
+    "temperament": "Affectionate, Gentle, Graceful",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Cavalier-King-Charles-Spaniel-standing-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/cocker-spaniel/",
@@ -2586,7 +2846,8 @@
     "weight": "25-30 pounds (male), 20-25 pounds (female)",
     "life_expectancy": "10-14 years",
     "group": "Sporting",
-    "temperament": "Smart, Happy, Gentle"
+    "temperament": "Smart, Happy, Gentle",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Cocker-Spaniel-running-in-the-yard.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/doberman-pinscher/",
@@ -2596,7 +2857,8 @@
     "weight": "75-100 pounds (male), 60-90 pounds (female)",
     "life_expectancy": "10-12 years",
     "group": "Working",
-    "temperament": "Alert, Loyal, Fearless"
+    "temperament": "Alert, Loyal, Fearless",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Doberman-Pinscher-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/great-pyrenees/",
@@ -2606,7 +2868,8 @@
     "weight": "100 pounds & up (male), 85 pounds & up (female)",
     "life_expectancy": "10-12 years",
     "group": "Working",
-    "temperament": "Smart, Patient, Calm"
+    "temperament": "Smart, Patient, Calm",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Great-Pyrenees-on-White-04.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/havanese/",
@@ -2616,7 +2879,8 @@
     "weight": "7-13 pounds",
     "life_expectancy": "14-16 years",
     "group": "Toy",
-    "temperament": "Intelligent, Outgoing, Funny"
+    "temperament": "Intelligent, Outgoing, Funny",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Havanese-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/labrador-retriever/",
@@ -2626,7 +2890,8 @@
     "weight": "65-80 pounds (male), 55-70 pounds (female)",
     "life_expectancy": "11-13 years",
     "group": "Sporting",
-    "temperament": "Active, Friendly, Outgoing"
+    "temperament": "Active, Friendly, Outgoing",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Labrador-Retrievers-three-colors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/shiba-inu/",
@@ -2636,7 +2901,8 @@
     "weight": "23 pounds (male), 17 pounds (female)",
     "life_expectancy": "13-16 years",
     "group": "Non Sporting",
-    "temperament": "Alert, Active, Attentive"
+    "temperament": "Alert, Active, Attentive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Shiba-Inu-standing-in-profile-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/shih-tzu/",
@@ -2646,7 +2912,8 @@
     "weight": "9-16 pounds",
     "life_expectancy": "10-18 years",
     "group": "Toy",
-    "temperament": "Playful, Affectionate, Outgoing"
+    "temperament": "Playful, Affectionate, Outgoing",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Shih-Tzu-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/siberian-husky/",
@@ -2656,7 +2923,8 @@
     "weight": "45-60 pounds (male), 35-50 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Working",
-    "temperament": "Loyal, Outgoing, Mischievous"
+    "temperament": "Loyal, Outgoing, Mischievous",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Siberian-Husky-standing-outdoors-in-the-winter.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/akita/",
@@ -2666,7 +2934,8 @@
     "weight": "100-130 pounds (male), 70-100 pounds (female)",
     "life_expectancy": "10-14 years",
     "group": "Working",
-    "temperament": "Dignified, Courageous, Profoundly loyal"
+    "temperament": "Dignified, Courageous, Profoundly loyal",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/06154034/Akita-standing-outdoors-in-the-summer.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/golden-retriever/",
@@ -2676,7 +2945,8 @@
     "weight": "65-75 pounds (male), 55-65 pounds (female)",
     "life_expectancy": "10-12 years",
     "group": "Sporting",
-    "temperament": "Intelligent, Friendly, Devoted"
+    "temperament": "Intelligent, Friendly, Devoted",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Golden-Retriever-wading-into-a-lake.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/australian-shepherd/",
@@ -2686,7 +2956,8 @@
     "weight": "50-65 pounds (male), 40-55 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Herding",
-    "temperament": "Smart, Work-oriented, Exuberant"
+    "temperament": "Smart, Work-oriented, Exuberant",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Shepherd.1.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/newfoundland/",
@@ -2696,7 +2967,8 @@
     "weight": "130-150 pounds (male), 100-120 pounds (female)",
     "life_expectancy": "9-10 years",
     "group": "Working",
-    "temperament": "Devoted, Sweet, Patient"
+    "temperament": "Devoted, Sweet, Patient",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Newfoundland-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bernese-mountain-dog/",
@@ -2706,7 +2978,8 @@
     "weight": "80-115 pounds (male), 70-95 pounds (female)",
     "life_expectancy": "7-10 years",
     "group": "Working",
-    "temperament": "Good-natured, Calm, Strong"
+    "temperament": "Good-natured, Calm, Strong",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Bernese-Mountain-Dog-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/anatolian-shepherd-dog/",
@@ -2716,7 +2989,8 @@
     "weight": "110-150 pounds (male), 80-120 pounds (female)",
     "life_expectancy": "11-13 years",
     "group": "Working",
-    "temperament": "Reserved, Independent, Loyal"
+    "temperament": "Reserved, Independent, Loyal",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Anatolian-Shepherd-Dog-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/belgian-sheepdog/",
@@ -2726,7 +3000,8 @@
     "weight": "55-75 pounds (male), 45-60 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Herding",
-    "temperament": "Bright, Watchful, Serious-minded"
+    "temperament": "Bright, Watchful, Serious-minded",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Belgian-Sheepdog-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/bergamasco-sheepdog/",
@@ -2736,7 +3011,8 @@
     "weight": "70-84 pounds (male), 57-71 pounds (female)",
     "life_expectancy": "13-15 years",
     "group": "Herding",
-    "temperament": "Independent, Intelligent, Sociable"
+    "temperament": "Independent, Intelligent, Sociable",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/28124755/Bergamasco-Sheepdog-standing-in-a-field-in-the-mountains.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/canaan-dog/",
@@ -2746,7 +3022,8 @@
     "weight": "45-55 pounds (male), 35-45 pounds (female)",
     "life_expectancy": "12-15 years",
     "group": "Herding",
-    "temperament": "Alert, Vigilant, Confident"
+    "temperament": "Alert, Vigilant, Confident",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Canaan-Dog-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/entlebucher-mountain-dog/",
@@ -2756,7 +3033,8 @@
     "weight": "50-65 pounds (male), 40-55 pounds (female)",
     "life_expectancy": "11-13 years",
     "group": "Herding",
-    "temperament": "Loyal, Smart, Enthusiastic"
+    "temperament": "Loyal, Smart, Enthusiastic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Entlebucher-Mountain-Dog-outdoors-standing-in-a-field.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/german-shepherd-dog/",
@@ -2766,7 +3044,8 @@
     "weight": "65-90 pounds (male), 50-70 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Herding",
-    "temperament": "Courageous, Confident, Smart"
+    "temperament": "Courageous, Confident, Smart",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-on-White-00.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/greater-swiss-mountain-dog/",
@@ -2776,7 +3055,8 @@
     "weight": "115-140 pounds (male), 85-110 pounds (female)",
     "life_expectancy": "8-11 years",
     "group": "Working",
-    "temperament": "Faithful, Family-oriented, Dependable"
+    "temperament": "Faithful, Family-oriented, Dependable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Greater-Swiss-Mountain-Dog-laying-down-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/norwegian-lundehund/",
@@ -2786,7 +3066,8 @@
     "weight": "15-18 lbs (male), 12-15 lbs (female)",
     "life_expectancy": "12-15 years",
     "group": "Non Sporting",
-    "temperament": "Alert, Loyal, Energetic"
+    "temperament": "Alert, Loyal, Energetic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Norwegian-Lundehund-standing-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/old-english-sheepdog/",
@@ -2796,7 +3077,8 @@
     "weight": "60-100 pounds",
     "life_expectancy": "10-12 years",
     "group": "Herding",
-    "temperament": "Smart, Gentle, Adaptable"
+    "temperament": "Smart, Gentle, Adaptable",
+    "image_url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/23124207/Old-English-Sheepdog-running-in-the-park.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/polish-lowland-sheepdog/",
@@ -2806,7 +3088,8 @@
     "weight": "30-50 pounds",
     "life_expectancy": "12-14 years",
     "group": "Herding",
-    "temperament": "Confident, Lively, Clever"
+    "temperament": "Confident, Lively, Clever",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Polish-Lowland-Sheepdog-On-White-02.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/portuguese-water-dog/",
@@ -2816,7 +3099,8 @@
     "weight": "42-60 pounds (male), 35-50 pounds (female)",
     "life_expectancy": "11-13 years",
     "group": "Working",
-    "temperament": "Affectionate, Adventurous, Athletic"
+    "temperament": "Affectionate, Adventurous, Athletic",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Portuguese-Water-Dog-standing-in-profile-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/australian-cattle-dog/",
@@ -2826,7 +3110,8 @@
     "weight": "35-50 pounds",
     "life_expectancy": "12-16 years",
     "group": "Herding",
-    "temperament": "Loyal, Intelligent, Tenacious"
+    "temperament": "Loyal, Intelligent, Tenacious",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-laying-down-in-the-grass.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/tibetan-terrier/",
@@ -2836,7 +3121,8 @@
     "weight": "18-30 pounds (male), slightly sm",
     "life_expectancy": "15-16 years",
     "group": "Non Sporting",
-    "temperament": "Loyal, Affectionate, Sensitive"
+    "temperament": "Loyal, Affectionate, Sensitive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Tibetan-Terrier-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/icelandic-sheepdog/",
@@ -2846,7 +3132,8 @@
     "weight": "30 pounds (male), 25 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Herding",
-    "temperament": "Friendly, Playful, Inquisitive"
+    "temperament": "Friendly, Playful, Inquisitive",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Icelandic-Sitting.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/spanish-water-dog/",
@@ -2856,7 +3143,8 @@
     "weight": "40-49 pounds (male), 31-40 pounds (female)",
     "life_expectancy": "12-14 years",
     "group": "Herding",
-    "temperament": "Upbeat, Playful but also work-oriented, Very active"
+    "temperament": "Upbeat, Playful but also work-oriented, Very active",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Spanish-Water-Dog.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/shetland-sheepdog/",
@@ -2866,7 +3154,8 @@
     "weight": "15-25 pounds",
     "life_expectancy": "12-14 years",
     "group": "Herding",
-    "temperament": "Playful, Energetic, Bright"
+    "temperament": "Playful, Energetic, Bright",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Shetland-Sheepdog-On-White-01.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/french-bulldog/",
@@ -2876,7 +3165,8 @@
     "weight": "under 28 pounds",
     "life_expectancy": "10-12 years",
     "group": "Non Sporting",
-    "temperament": "Playful, Smart, Adaptable"
+    "temperament": "Playful, Smart, Adaptable",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-standing-outdoors.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/american-eskimo-dog/",
@@ -2886,7 +3176,8 @@
     "weight": "6-10 pounds (toy), 10-20 pounds (miniature), 25-35 pounds (standard)",
     "life_expectancy": "13-15 years",
     "group": "Non Sporting",
-    "temperament": "Loyal, Smart, Versatile"
+    "temperament": "Loyal, Smart, Versatile",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/American-Eskimo-Dog-standing-in-the-grass-in-bright-sunlight.jpg"
   },
   {
     "url": "https://www.akc.org/dog-breeds/beagle/",
@@ -2896,6 +3187,7 @@
     "weight": "under 20 pounds (13 inches & under), 20-30 pounds (13-15 inches)",
     "life_expectancy": "10-15 years",
     "group": "Hound",
-    "temperament": "Curious, Friendly, Merry"
+    "temperament": "Curious, Friendly, Merry",
+    "image_url": "https://www.akc.org/wp-content/uploads/2017/11/Beagles-standing-in-a-frosty-field-on-a-cold-morning.jpg"
   }
 ]

@@ -45,7 +45,7 @@ const render = () => {
     const temps = tempsOf(d);
     return `
       <div class="card" data-index="${dogs.indexOf(d)}">
-        <div class="card-group">${d.group || "—"}</div>
+        ${d.image_url ? `<img class="card-img" src="${d.image_url}" alt="${d.name}" loading="lazy">` : ""}
         <div class="card-name">${d.name}</div>
         <div class="card-tags">${temps.map(t => `<span class="tag">${t}</span>`).join("")}</div>
         <div class="card-meta">

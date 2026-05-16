@@ -98,7 +98,7 @@ input[type="search"]:focus { border-color: #1b3a5c; }
   background: white;
   border-radius: 12px;
   border: 1px solid #e5e5e5;
-  padding: 20px;
+  overflow: hidden;
   cursor: pointer;
   transition: box-shadow 0.15s, transform 0.15s;
 }
@@ -106,16 +106,15 @@ input[type="search"]:focus { border-color: #1b3a5c; }
   box-shadow: 0 4px 16px rgba(0,0,0,0.10);
   transform: translateY(-2px);
 }
-.card-group {
-  font-size: 0.7rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: #c46a00;
-  margin-bottom: 6px;
+.card-img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  display: block;
 }
-.card-name { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
-.card-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 10px; }
+.card-name { font-size: 1.05rem; font-weight: 700; margin: 14px 16px 8px; }
+.card-tags { display: flex; flex-wrap: wrap; gap: 4px; margin: 0 16px 10px; }
+.card-meta { font-size: 0.78rem; color: #666; line-height: 1.6; padding: 0 16px 16px; }
 .tag {
   font-size: 0.7rem;
   padding: 2px 8px;
@@ -123,7 +122,6 @@ input[type="search"]:focus { border-color: #1b3a5c; }
   background: #f0f4f8;
   color: #445;
 }
-.card-meta { font-size: 0.78rem; color: #666; line-height: 1.6; }
 .card-meta span { display: block; }
 
 .empty {
