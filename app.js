@@ -1,4 +1,13 @@
-const TEMPERAMENT_TAGS = ["Friendly", "Loyal", "Active", "Playful", "Smart", "Calm", "Curious", "Outgoing", "Courageous"];
+const TEMPERAMENT_BUCKETS = {
+  "Friendly":     ["amiable","charming","cheerful","courteous","family-oriented","friendly","gentle","gentlemanly","good-humored","good-natured","good-tempered","gregarious","home-loving","kind","lovable","outgoing","people-oriented","polite","positive","sociable","sweet","sweet-natured","sweet-tempered"],
+  "Affectionate": ["affectionate","deeply affectionate","deeply devoted","dependable","devoted","faithful","loving","loyal","profoundly loyal","sensitive","tenderhearted"],
+  "Energetic":    ["active","agile","athletic","boisterous","bouncy","busy","dashing","energetic","enthusiastic","exuberant","frollicking","hardworking","lively","peppy","powerful","ready to work","spirited","sprightly","spunky","strong","tomboyish","upbeat","versatile","very active","vivacious","work-oriented"],
+  "Calm":         ["calm","dignified","docile","easy-going","even-tempered","graceful","low-key","majestic","mellow","noble","patient","poised","regal","regal in manner","regally dignified","serious-minded","undemanding"],
+  "Intelligent":  ["alert","alert and intelligent","attentive","bidable","bright","canny","clever","eager","eager to please","easily trained","intelligent","keen","keenly alert","keenly observant","obedient","observant","perceptive","quick","responsive","smart","trainable","very smart","watchful","wickedly smart","willing to please"],
+  "Playful":      ["adaptable","amusing","charismatic","comical","entertaining","famously funny","fun-loving","funny","happy","happy-go-lucky","joyful","merry","mischievous","optimistic","playful","playful but also work-oriented","sassy","sense of humor"],
+  "Brave":        ["bold","brave","confident","confident guardian","courageous","fearless","plucky","proud","self-confident","strong-willed","tenacious","vigilant"],
+  "Independent":  ["adventurous","aloof","curious","determined","independent","independent-minded","inquisitive","reserved","reserved with strangers"],
+};
 
 const weightLbs = str => {
   if (!str) return null;
@@ -29,7 +38,8 @@ const render = () => {
     if (activeSizes.size > 0 && !activeSizes.has(sizeOf(d))) return false;
     if (activeTemps.size > 0) {
       const breedTemps = tempsOf(d).map(t => t.toLowerCase());
-      if (![...activeTemps].every(at => breedTemps.some(t => t.includes(at.toLowerCase())))) return false;
+      const matchesBucket = bucket => (TEMPERAMENT_BUCKETS[bucket] || []).some(kw => breedTemps.some(t => t.includes(kw)));
+      if (![...activeTemps].every(matchesBucket)) return false;
     }
     return true;
   }).sort((a, b) => a.name.localeCompare(b.name));
@@ -105,18 +115,14 @@ const wireChips = (container, activeSet, getValue) => {
 };
 
 const buildTempFilters = () => {
-  const present = new Set(dogs.flatMap(tempsOf).map(t => t.trim()));
-  const toShow = TEMPERAMENT_TAGS.filter(t => [...present].some(p => p.toLowerCase().includes(t.toLowerCase())));
   const wrap = document.getElementById("temp-filters");
-
-  toShow.forEach(t => {
+  Object.keys(TEMPERAMENT_BUCKETS).forEach(bucket => {
     const btn = document.createElement("button");
     btn.className = "chip";
-    btn.dataset.temp = t;
-    btn.textContent = t;
+    btn.dataset.temp = bucket;
+    btn.textContent = bucket;
     wrap.appendChild(btn);
   });
-
   wireChips(wrap, activeTemps, b => b.dataset.temp);
 };
 
