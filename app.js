@@ -80,37 +80,44 @@ const openModal = dog => {
 
 const closeModal = () => document.getElementById("overlay").classList.remove("open");
 
+// Generic multi-select chip group handler.
+// allBtn has no value; value chips toggle membership in activeSet.
+const wireChips = (container, activeSet, getValue) => {
+  const chips = container.querySelectorAll(".chip");
+  const allBtn = [...chips].find(b => !getValue(b));
+
+  chips.forEach(btn => {
+    btn.addEventListener("click", () => {
+      const v = getValue(btn);
+      if (!v) {
+        // "All" chip
+        activeSet.clear();
+        chips.forEach(b => b.classList.remove("active"));
+        allBtn.classList.add("active");
+      } else {
+        activeSet.has(v) ? activeSet.delete(v) : activeSet.add(v);
+        btn.classList.toggle("active", activeSet.has(v));
+        allBtn.classList.toggle("active", activeSet.size === 0);
+      }
+      render();
+    });
+  });
+};
+
 const buildTempFilters = () => {
   const present = new Set(dogs.flatMap(tempsOf).map(t => t.trim()));
   const toShow = TEMPERAMENT_TAGS.filter(t => [...present].some(p => p.toLowerCase().includes(t.toLowerCase())));
   const wrap = document.getElementById("temp-filters");
-  const allBtn = wrap.querySelector("[data-temp='']");
 
   toShow.forEach(t => {
     const btn = document.createElement("button");
     btn.className = "chip";
     btn.dataset.temp = t;
     btn.textContent = t;
-    btn.addEventListener("click", () => {
-      if (activeTemps.has(t)) {
-        activeTemps.delete(t);
-        btn.classList.remove("active");
-      } else {
-        activeTemps.add(t);
-        btn.classList.add("active");
-      }
-      allBtn.classList.toggle("active", activeTemps.size === 0);
-      render();
-    });
     wrap.appendChild(btn);
   });
 
-  allBtn.addEventListener("click", () => {
-    activeTemps.clear();
-    wrap.querySelectorAll("[data-temp]").forEach(b => b.classList.remove("active"));
-    allBtn.classList.add("active");
-    render();
-  });
+  wireChips(wrap, activeTemps, b => b.dataset.temp);
 };
 
 // Controls
@@ -119,29 +126,7 @@ document.getElementById("search").addEventListener("input", e => {
   render();
 });
 
-const sizeAllBtn = document.querySelector("[data-size='']");
-document.querySelectorAll("[data-size]").forEach(btn => {
-  btn.addEventListener("click", () => {
-    const s = btn.dataset.size;
-    if (s === "") {
-      activeSizes.clear();
-      document.querySelectorAll("[data-size]").forEach(b => b.classList.remove("active"));
-      sizeAllBtn.classList.add("active");
-    } else {
-      if (activeSizes.has(s)) {
-        activeSizes.delete(s);
-        btn.classList.remove("active");
-      } else {
-        activeSizes.add(s);
-        btn.classList.add("active");
-      }
-      sizeAllBtn.classList.toggle("active", activeSizes.size === 0);
-    }
-    render();
-  });
-});
-
-// "All" temperament chip wired in buildTempFilters after data loads
+wireChips(document.getElementById("size-filters"), activeSizes, b => b.dataset.size);
 
 document.getElementById("overlay").addEventListener("click", e => {
   if (e.target === document.getElementById("overlay")) closeModal();
