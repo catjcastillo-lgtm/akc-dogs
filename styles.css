@@ -2,13 +2,13 @@
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background: #f5f4f0;
+  background: #f2f7f4;
   color: #1a1a1a;
   min-height: 100vh;
 }
 
 header {
-  background: #1b3a5c;
+  background: #2d7a50;
   color: white;
   padding: 24px 32px;
 }
@@ -51,7 +51,7 @@ input[type="search"] {
   outline: none;
   transition: border-color 0.15s;
 }
-input[type="search"]:focus { border-color: #1b3a5c; }
+input[type="search"]:focus { border-color: #2d7a50; }
 
 .filter-group {
   display: flex;
@@ -77,8 +77,8 @@ input[type="search"]:focus { border-color: #1b3a5c; }
   transition: all 0.15s;
   white-space: nowrap;
 }
-.chip:hover  { border-color: #1b3a5c; color: #1b3a5c; }
-.chip.active { background: #1b3a5c; color: white; border-color: #1b3a5c; }
+.chip:hover  { border-color: #2d7a50; color: #2d7a50; }
+.chip.active { background: #2d7a50; color: white; border-color: #2d7a50; }
 
 .count {
   margin-left: auto;
@@ -194,11 +194,11 @@ input[type="search"]:focus { border-color: #1b3a5c; }
 .modal-link {
   display: inline-block;
   font-size: 0.82rem;
-  color: #1b3a5c;
+  color: #2d7a50;
   text-decoration: none;
-  border: 1px solid #1b3a5c;
+  border: 1px solid #2d7a50;
   padding: 6px 16px;
   border-radius: 8px;
   transition: background 0.15s, color 0.15s;
 }
-.modal-link:hover { background: #1b3a5c; color: white; }
+.modal-link:hover { background: #2d7a50; color: white; }
