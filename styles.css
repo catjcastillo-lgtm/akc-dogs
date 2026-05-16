@@ -10,10 +10,10 @@ body {
 header {
   background: #7b5035;
   color: white;
-  padding: 48px 56px;
+  padding: 58px 68px;
 }
-header h1 { font-family: "Noto Sans", sans-serif; font-size: 48px; font-weight: 700; letter-spacing: -0.5px; }
-header p  { font-family: "Noto Sans", sans-serif; font-size: 22px; opacity: 0.88; margin-top: 10px; line-height: 1.5; }
+header h1 { font-family: "Noto Sans", sans-serif; font-size: 58px; font-weight: 700; letter-spacing: -0.5px; line-height: 1.1; }
+header p  { font-family: "Noto Sans", sans-serif; font-size: 26px; opacity: 0.92; margin-top: 12px; line-height: 1.5; }
 
 .controls {
   background: white;
